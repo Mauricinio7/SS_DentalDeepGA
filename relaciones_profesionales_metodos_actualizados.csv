@@ -1,0 +1,693 @@
+﻿Profesional,EP,Contexto,Method Class,Metodo,Instrumento,Estandar,Metodo anterior,Metodo mapeado
+Psychologists / Psychiatrists,EP-02,,Testing,Case-based testing,Surveys and questionnaires,,Usability perception questionnaires/interviews,Sí
+Psychologists / Psychiatrists,EP-02,,Inquiry,Questionnaires,Surveys and questionnaires,,Usability perception questionnaires/interviews,Sí
+Psychologists / Psychiatrists,EP-02,,Testing,Case-based testing,Surveys and questionnaires,,User-based usability measurement,Sí
+Psychologists / Psychiatrists,EP-02,,Inquiry,Questionnaires,Surveys and questionnaires,,User-based usability measurement,Sí
+Nurses,EP-04,Hospitals,Testing,Case-based testing,Discourse-based methods,"ISO / IEC (usabilidad, calidad, dispositivos médicos) - ISO 9241-210 (User-Centered Design)",User-based usability measurement,Sí
+Physicians,EP-04,Hospitals,Testing,Case-based testing,Discourse-based methods,"ISO / IEC (usabilidad, calidad, dispositivos médicos) - ISO 9241-210 (User-Centered Design)",User-based usability measurement,Sí
+Physicians,EP-09,,Testing,Case-based testing,Surveys and questionnaires,,Usability perception questionnaires/interviews,Sí
+Physicians,EP-09,,Inquiry,Questionnaires,Surveys and questionnaires,,Usability perception questionnaires/interviews,Sí
+Physicians,EP-09,,Testing,Case-based testing,Surveys and questionnaires,,User-based usability measurement,Sí
+Physicians,EP-09,,Inquiry,Questionnaires,Surveys and questionnaires,,User-based usability measurement,Sí
+Students,EP-10,,Testing,Case-based testing,Standardized usability,,Usability perception questionnaires/interviews,Sí
+Students,EP-10,,Inquiry,Questionnaires,Standardized usability,,Usability perception questionnaires/interviews,Sí
+Students,EP-10,,Testing,Case-based testing,Standardized usability,,User-based usability measurement,Sí
+Students,EP-10,,Inquiry,Questionnaires,Standardized usability,,User-based usability measurement,Sí
+Nurses,EP-13,,Inspection,Cognitive walkthrough,Standardized usability,Estándares clínicos / médicos - College of American Pathologists (CAP) cancer protocol,Standardized usability scales,Sí
+Nurses,EP-13,,Inspection,Talk-based walkthrough,Standardized usability,Estándares clínicos / médicos - College of American Pathologists (CAP) cancer protocol,Standardized usability scales,Sí
+Nurses,EP-13,,Inquiry,SUS system usability scale,Standardized usability,Estándares clínicos / médicos - College of American Pathologists (CAP) cancer protocol,Standardized usability scales,Sí
+Nurses,EP-13,,Inspection,Cognitive walkthrough,Standardized usability,"ISO / IEC (usabilidad, calidad, dispositivos médicos) - IEC 62304 (ciclo de vida de software médico)",Standardized usability scales,Sí
+Nurses,EP-13,,Inspection,Talk-based walkthrough,Standardized usability,"ISO / IEC (usabilidad, calidad, dispositivos médicos) - IEC 62304 (ciclo de vida de software médico)",Standardized usability scales,Sí
+Nurses,EP-13,,Inquiry,SUS system usability scale,Standardized usability,"ISO / IEC (usabilidad, calidad, dispositivos médicos) - IEC 62304 (ciclo de vida de software médico)",Standardized usability scales,Sí
+Nurses,EP-13,,Inspection,Cognitive walkthrough,Standardized usability,"ISO / IEC (usabilidad, calidad, dispositivos médicos) - IEC 62366 (usabilidad para dispositivos médicos)",Standardized usability scales,Sí
+Nurses,EP-13,,Inspection,Talk-based walkthrough,Standardized usability,"ISO / IEC (usabilidad, calidad, dispositivos médicos) - IEC 62366 (usabilidad para dispositivos médicos)",Standardized usability scales,Sí
+Nurses,EP-13,,Inquiry,SUS system usability scale,Standardized usability,"ISO / IEC (usabilidad, calidad, dispositivos médicos) - IEC 62366 (usabilidad para dispositivos médicos)",Standardized usability scales,Sí
+Nurses,EP-13,,Inspection,Cognitive walkthrough,Standardized usability,"ISO / IEC (usabilidad, calidad, dispositivos médicos) - ISO 13485 (QMS para dispositivos médicos)",Standardized usability scales,Sí
+Nurses,EP-13,,Inspection,Talk-based walkthrough,Standardized usability,"ISO / IEC (usabilidad, calidad, dispositivos médicos) - ISO 13485 (QMS para dispositivos médicos)",Standardized usability scales,Sí
+Nurses,EP-13,,Inquiry,SUS system usability scale,Standardized usability,"ISO / IEC (usabilidad, calidad, dispositivos médicos) - ISO 13485 (QMS para dispositivos médicos)",Standardized usability scales,Sí
+Nurses,EP-13,,Inspection,Cognitive walkthrough,Standardized usability,Regulaciones legales - Medical Device Regulation (EU MDR 2017/745),Standardized usability scales,Sí
+Nurses,EP-13,,Inspection,Talk-based walkthrough,Standardized usability,Regulaciones legales - Medical Device Regulation (EU MDR 2017/745),Standardized usability scales,Sí
+Nurses,EP-13,,Inquiry,SUS system usability scale,Standardized usability,Regulaciones legales - Medical Device Regulation (EU MDR 2017/745),Standardized usability scales,Sí
+Nurses,EP-13,,Inspection,Cognitive walkthrough,Standardized usability,Estándares clínicos / médicos - College of American Pathologists (CAP) cancer protocol,Expert inspection,Sí
+Nurses,EP-13,,Inspection,Talk-based walkthrough,Standardized usability,Estándares clínicos / médicos - College of American Pathologists (CAP) cancer protocol,Expert inspection,Sí
+Nurses,EP-13,,Inquiry,SUS system usability scale,Standardized usability,Estándares clínicos / médicos - College of American Pathologists (CAP) cancer protocol,Expert inspection,Sí
+Nurses,EP-13,,Inspection,Cognitive walkthrough,Standardized usability,"ISO / IEC (usabilidad, calidad, dispositivos médicos) - IEC 62304 (ciclo de vida de software médico)",Expert inspection,Sí
+Nurses,EP-13,,Inspection,Talk-based walkthrough,Standardized usability,"ISO / IEC (usabilidad, calidad, dispositivos médicos) - IEC 62304 (ciclo de vida de software médico)",Expert inspection,Sí
+Nurses,EP-13,,Inquiry,SUS system usability scale,Standardized usability,"ISO / IEC (usabilidad, calidad, dispositivos médicos) - IEC 62304 (ciclo de vida de software médico)",Expert inspection,Sí
+Nurses,EP-13,,Inspection,Cognitive walkthrough,Standardized usability,"ISO / IEC (usabilidad, calidad, dispositivos médicos) - IEC 62366 (usabilidad para dispositivos médicos)",Expert inspection,Sí
+Nurses,EP-13,,Inspection,Talk-based walkthrough,Standardized usability,"ISO / IEC (usabilidad, calidad, dispositivos médicos) - IEC 62366 (usabilidad para dispositivos médicos)",Expert inspection,Sí
+Nurses,EP-13,,Inquiry,SUS system usability scale,Standardized usability,"ISO / IEC (usabilidad, calidad, dispositivos médicos) - IEC 62366 (usabilidad para dispositivos médicos)",Expert inspection,Sí
+Nurses,EP-13,,Inspection,Cognitive walkthrough,Standardized usability,"ISO / IEC (usabilidad, calidad, dispositivos médicos) - ISO 13485 (QMS para dispositivos médicos)",Expert inspection,Sí
+Nurses,EP-13,,Inspection,Talk-based walkthrough,Standardized usability,"ISO / IEC (usabilidad, calidad, dispositivos médicos) - ISO 13485 (QMS para dispositivos médicos)",Expert inspection,Sí
+Nurses,EP-13,,Inquiry,SUS system usability scale,Standardized usability,"ISO / IEC (usabilidad, calidad, dispositivos médicos) - ISO 13485 (QMS para dispositivos médicos)",Expert inspection,Sí
+Nurses,EP-13,,Inspection,Cognitive walkthrough,Standardized usability,Regulaciones legales - Medical Device Regulation (EU MDR 2017/745),Expert inspection,Sí
+Nurses,EP-13,,Inspection,Talk-based walkthrough,Standardized usability,Regulaciones legales - Medical Device Regulation (EU MDR 2017/745),Expert inspection,Sí
+Nurses,EP-13,,Inquiry,SUS system usability scale,Standardized usability,Regulaciones legales - Medical Device Regulation (EU MDR 2017/745),Expert inspection,Sí
+Physicians,EP-13,,Inspection,Cognitive walkthrough,Standardized usability,Estándares clínicos / médicos - College of American Pathologists (CAP) cancer protocol,Standardized usability scales,Sí
+Physicians,EP-13,,Inspection,Talk-based walkthrough,Standardized usability,Estándares clínicos / médicos - College of American Pathologists (CAP) cancer protocol,Standardized usability scales,Sí
+Physicians,EP-13,,Inquiry,SUS system usability scale,Standardized usability,Estándares clínicos / médicos - College of American Pathologists (CAP) cancer protocol,Standardized usability scales,Sí
+Physicians,EP-13,,Inspection,Cognitive walkthrough,Standardized usability,"ISO / IEC (usabilidad, calidad, dispositivos médicos) - IEC 62304 (ciclo de vida de software médico)",Standardized usability scales,Sí
+Physicians,EP-13,,Inspection,Talk-based walkthrough,Standardized usability,"ISO / IEC (usabilidad, calidad, dispositivos médicos) - IEC 62304 (ciclo de vida de software médico)",Standardized usability scales,Sí
+Physicians,EP-13,,Inquiry,SUS system usability scale,Standardized usability,"ISO / IEC (usabilidad, calidad, dispositivos médicos) - IEC 62304 (ciclo de vida de software médico)",Standardized usability scales,Sí
+Physicians,EP-13,,Inspection,Cognitive walkthrough,Standardized usability,"ISO / IEC (usabilidad, calidad, dispositivos médicos) - IEC 62366 (usabilidad para dispositivos médicos)",Standardized usability scales,Sí
+Physicians,EP-13,,Inspection,Talk-based walkthrough,Standardized usability,"ISO / IEC (usabilidad, calidad, dispositivos médicos) - IEC 62366 (usabilidad para dispositivos médicos)",Standardized usability scales,Sí
+Physicians,EP-13,,Inquiry,SUS system usability scale,Standardized usability,"ISO / IEC (usabilidad, calidad, dispositivos médicos) - IEC 62366 (usabilidad para dispositivos médicos)",Standardized usability scales,Sí
+Physicians,EP-13,,Inspection,Cognitive walkthrough,Standardized usability,"ISO / IEC (usabilidad, calidad, dispositivos médicos) - ISO 13485 (QMS para dispositivos médicos)",Standardized usability scales,Sí
+Physicians,EP-13,,Inspection,Talk-based walkthrough,Standardized usability,"ISO / IEC (usabilidad, calidad, dispositivos médicos) - ISO 13485 (QMS para dispositivos médicos)",Standardized usability scales,Sí
+Physicians,EP-13,,Inquiry,SUS system usability scale,Standardized usability,"ISO / IEC (usabilidad, calidad, dispositivos médicos) - ISO 13485 (QMS para dispositivos médicos)",Standardized usability scales,Sí
+Physicians,EP-13,,Inspection,Cognitive walkthrough,Standardized usability,Regulaciones legales - Medical Device Regulation (EU MDR 2017/745),Standardized usability scales,Sí
+Physicians,EP-13,,Inspection,Talk-based walkthrough,Standardized usability,Regulaciones legales - Medical Device Regulation (EU MDR 2017/745),Standardized usability scales,Sí
+Physicians,EP-13,,Inquiry,SUS system usability scale,Standardized usability,Regulaciones legales - Medical Device Regulation (EU MDR 2017/745),Standardized usability scales,Sí
+Physicians,EP-13,,Inspection,Cognitive walkthrough,Standardized usability,Estándares clínicos / médicos - College of American Pathologists (CAP) cancer protocol,Expert inspection,Sí
+Physicians,EP-13,,Inspection,Talk-based walkthrough,Standardized usability,Estándares clínicos / médicos - College of American Pathologists (CAP) cancer protocol,Expert inspection,Sí
+Physicians,EP-13,,Inquiry,SUS system usability scale,Standardized usability,Estándares clínicos / médicos - College of American Pathologists (CAP) cancer protocol,Expert inspection,Sí
+Physicians,EP-13,,Inspection,Cognitive walkthrough,Standardized usability,"ISO / IEC (usabilidad, calidad, dispositivos médicos) - IEC 62304 (ciclo de vida de software médico)",Expert inspection,Sí
+Physicians,EP-13,,Inspection,Talk-based walkthrough,Standardized usability,"ISO / IEC (usabilidad, calidad, dispositivos médicos) - IEC 62304 (ciclo de vida de software médico)",Expert inspection,Sí
+Physicians,EP-13,,Inquiry,SUS system usability scale,Standardized usability,"ISO / IEC (usabilidad, calidad, dispositivos médicos) - IEC 62304 (ciclo de vida de software médico)",Expert inspection,Sí
+Physicians,EP-13,,Inspection,Cognitive walkthrough,Standardized usability,"ISO / IEC (usabilidad, calidad, dispositivos médicos) - IEC 62366 (usabilidad para dispositivos médicos)",Expert inspection,Sí
+Physicians,EP-13,,Inspection,Talk-based walkthrough,Standardized usability,"ISO / IEC (usabilidad, calidad, dispositivos médicos) - IEC 62366 (usabilidad para dispositivos médicos)",Expert inspection,Sí
+Physicians,EP-13,,Inquiry,SUS system usability scale,Standardized usability,"ISO / IEC (usabilidad, calidad, dispositivos médicos) - IEC 62366 (usabilidad para dispositivos médicos)",Expert inspection,Sí
+Physicians,EP-13,,Inspection,Cognitive walkthrough,Standardized usability,"ISO / IEC (usabilidad, calidad, dispositivos médicos) - ISO 13485 (QMS para dispositivos médicos)",Expert inspection,Sí
+Physicians,EP-13,,Inspection,Talk-based walkthrough,Standardized usability,"ISO / IEC (usabilidad, calidad, dispositivos médicos) - ISO 13485 (QMS para dispositivos médicos)",Expert inspection,Sí
+Physicians,EP-13,,Inquiry,SUS system usability scale,Standardized usability,"ISO / IEC (usabilidad, calidad, dispositivos médicos) - ISO 13485 (QMS para dispositivos médicos)",Expert inspection,Sí
+Physicians,EP-13,,Inspection,Cognitive walkthrough,Standardized usability,Regulaciones legales - Medical Device Regulation (EU MDR 2017/745),Expert inspection,Sí
+Physicians,EP-13,,Inspection,Talk-based walkthrough,Standardized usability,Regulaciones legales - Medical Device Regulation (EU MDR 2017/745),Expert inspection,Sí
+Physicians,EP-13,,Inquiry,SUS system usability scale,Standardized usability,Regulaciones legales - Medical Device Regulation (EU MDR 2017/745),Expert inspection,Sí
+Physicians,EP-14,Hospitals,Inquiry,Questionnaires,Surveys and questionnaires,,Usability perception questionnaires/interviews,Sí
+Physicians,EP-14,Hospitals,Inquiry,Questionnaires,Observation and testing,,Usability perception questionnaires/interviews,Sí
+Physicians,EP-15,Hospitals,Testing,Think-aloud,Surveys and questionnaires,"ISO / IEC (usabilidad, calidad, dispositivos médicos) - ISO 9241-11 (definición ISO de usabilidad)",Usability perception questionnaires/interviews,Sí
+Physicians,EP-15,Hospitals,Inspection,Heuristic evaluation,Surveys and questionnaires,"ISO / IEC (usabilidad, calidad, dispositivos médicos) - ISO 9241-11 (definición ISO de usabilidad)",Usability perception questionnaires/interviews,Sí
+Physicians,EP-15,Hospitals,Inquiry,Questionnaires,Surveys and questionnaires,"ISO / IEC (usabilidad, calidad, dispositivos médicos) - ISO 9241-11 (definición ISO de usabilidad)",Usability perception questionnaires/interviews,Sí
+Physicians,EP-15,Hospitals,Testing,Think-aloud,Surveys and questionnaires,"ISO / IEC (usabilidad, calidad, dispositivos médicos) - ISO 9241-11 (definición ISO de usabilidad)",Expert inspection,Sí
+Physicians,EP-15,Hospitals,Inspection,Heuristic evaluation,Surveys and questionnaires,"ISO / IEC (usabilidad, calidad, dispositivos médicos) - ISO 9241-11 (definición ISO de usabilidad)",Expert inspection,Sí
+Physicians,EP-15,Hospitals,Inquiry,Questionnaires,Surveys and questionnaires,"ISO / IEC (usabilidad, calidad, dispositivos médicos) - ISO 9241-11 (definición ISO de usabilidad)",Expert inspection,Sí
+Physicians,EP-15,Hospitals,Testing,Think-aloud,Surveys and questionnaires,"ISO / IEC (usabilidad, calidad, dispositivos médicos) - ISO 9241-11 (definición ISO de usabilidad)",User-based usability measurement,Sí
+Physicians,EP-15,Hospitals,Inspection,Heuristic evaluation,Surveys and questionnaires,"ISO / IEC (usabilidad, calidad, dispositivos médicos) - ISO 9241-11 (definición ISO de usabilidad)",User-based usability measurement,Sí
+Physicians,EP-15,Hospitals,Inquiry,Questionnaires,Surveys and questionnaires,"ISO / IEC (usabilidad, calidad, dispositivos médicos) - ISO 9241-11 (definición ISO de usabilidad)",User-based usability measurement,Sí
+Physicians,EP-18,Hospitals,Testing,Case-based testing,Clinical,,Usability perception questionnaires/interviews,Sí
+Physicians,EP-18,Hospitals,Inquiry,Questionnaires,Clinical,,Usability perception questionnaires/interviews,Sí
+Physicians,EP-18,Hospitals,Testing,Case-based testing,Clinical,,User-based usability measurement,Sí
+Physicians,EP-18,Hospitals,Inquiry,Questionnaires,Clinical,,User-based usability measurement,Sí
+Students,EP-19,,Testing,Case-based testing,Discourse-based methods,,Usability perception questionnaires/interviews,Sí
+Students,EP-19,,Testing,Randomized Controlled Trial,Discourse-based methods,,Usability perception questionnaires/interviews,Sí
+Students,EP-19,,Inquiry,Questionnaires,Discourse-based methods,,Usability perception questionnaires/interviews,Sí
+Students,EP-19,,Testing,Case-based testing,Standardized usability,,Usability perception questionnaires/interviews,Sí
+Students,EP-19,,Testing,Randomized Controlled Trial,Standardized usability,,Usability perception questionnaires/interviews,Sí
+Students,EP-19,,Inquiry,Questionnaires,Standardized usability,,Usability perception questionnaires/interviews,Sí
+Students,EP-19,,Testing,Case-based testing,Discourse-based methods,,Controlled experiments,Sí
+Students,EP-19,,Testing,Randomized Controlled Trial,Discourse-based methods,,Controlled experiments,Sí
+Students,EP-19,,Inquiry,Questionnaires,Discourse-based methods,,Controlled experiments,Sí
+Students,EP-19,,Testing,Case-based testing,Standardized usability,,Controlled experiments,Sí
+Students,EP-19,,Testing,Randomized Controlled Trial,Standardized usability,,Controlled experiments,Sí
+Students,EP-19,,Inquiry,Questionnaires,Standardized usability,,Controlled experiments,Sí
+Students,EP-19,,Testing,Case-based testing,Discourse-based methods,,User-based usability measurement,Sí
+Students,EP-19,,Testing,Randomized Controlled Trial,Discourse-based methods,,User-based usability measurement,Sí
+Students,EP-19,,Inquiry,Questionnaires,Discourse-based methods,,User-based usability measurement,Sí
+Students,EP-19,,Testing,Case-based testing,Standardized usability,,User-based usability measurement,Sí
+Students,EP-19,,Testing,Randomized Controlled Trial,Standardized usability,,User-based usability measurement,Sí
+Students,EP-19,,Inquiry,Questionnaires,Standardized usability,,User-based usability measurement,Sí
+Physicians,EP-19,,Testing,Case-based testing,Discourse-based methods,,Usability perception questionnaires/interviews,Sí
+Physicians,EP-19,,Testing,Randomized Controlled Trial,Discourse-based methods,,Usability perception questionnaires/interviews,Sí
+Physicians,EP-19,,Inquiry,Questionnaires,Discourse-based methods,,Usability perception questionnaires/interviews,Sí
+Physicians,EP-19,,Testing,Case-based testing,Standardized usability,,Usability perception questionnaires/interviews,Sí
+Physicians,EP-19,,Testing,Randomized Controlled Trial,Standardized usability,,Usability perception questionnaires/interviews,Sí
+Physicians,EP-19,,Inquiry,Questionnaires,Standardized usability,,Usability perception questionnaires/interviews,Sí
+Physicians,EP-19,,Testing,Case-based testing,Discourse-based methods,,Controlled experiments,Sí
+Physicians,EP-19,,Testing,Randomized Controlled Trial,Discourse-based methods,,Controlled experiments,Sí
+Physicians,EP-19,,Inquiry,Questionnaires,Discourse-based methods,,Controlled experiments,Sí
+Physicians,EP-19,,Testing,Case-based testing,Standardized usability,,Controlled experiments,Sí
+Physicians,EP-19,,Testing,Randomized Controlled Trial,Standardized usability,,Controlled experiments,Sí
+Physicians,EP-19,,Inquiry,Questionnaires,Standardized usability,,Controlled experiments,Sí
+Physicians,EP-19,,Testing,Case-based testing,Discourse-based methods,,User-based usability measurement,Sí
+Physicians,EP-19,,Testing,Randomized Controlled Trial,Discourse-based methods,,User-based usability measurement,Sí
+Physicians,EP-19,,Inquiry,Questionnaires,Discourse-based methods,,User-based usability measurement,Sí
+Physicians,EP-19,,Testing,Case-based testing,Standardized usability,,User-based usability measurement,Sí
+Physicians,EP-19,,Testing,Randomized Controlled Trial,Standardized usability,,User-based usability measurement,Sí
+Physicians,EP-19,,Inquiry,Questionnaires,Standardized usability,,User-based usability measurement,Sí
+Students,EP-20,,Testing,Think-aloud,Discourse-based methods,,Qualitative analyses,Sí
+Students,EP-20,,Testing,Case-based testing,Discourse-based methods,,Qualitative analyses,Sí
+Students,EP-20,,Testing,Observation / Shadowing,Discourse-based methods,,Qualitative analyses,Sí
+Students,EP-20,,Inquiry,Semi-structured interviews,Discourse-based methods,,Qualitative analyses,Sí
+Students,EP-20,,Testing,Think-aloud,Observation and testing,,Qualitative analyses,Sí
+Students,EP-20,,Testing,Case-based testing,Observation and testing,,Qualitative analyses,Sí
+Students,EP-20,,Testing,Observation / Shadowing,Observation and testing,,Qualitative analyses,Sí
+Students,EP-20,,Inquiry,Semi-structured interviews,Observation and testing,,Qualitative analyses,Sí
+Students,EP-20,,Testing,Think-aloud,Discourse-based methods,,User-based usability measurement,Sí
+Students,EP-20,,Testing,Case-based testing,Discourse-based methods,,User-based usability measurement,Sí
+Students,EP-20,,Testing,Observation / Shadowing,Discourse-based methods,,User-based usability measurement,Sí
+Students,EP-20,,Inquiry,Semi-structured interviews,Discourse-based methods,,User-based usability measurement,Sí
+Students,EP-20,,Testing,Think-aloud,Observation and testing,,User-based usability measurement,Sí
+Students,EP-20,,Testing,Case-based testing,Observation and testing,,User-based usability measurement,Sí
+Students,EP-20,,Testing,Observation / Shadowing,Observation and testing,,User-based usability measurement,Sí
+Students,EP-20,,Inquiry,Semi-structured interviews,Observation and testing,,User-based usability measurement,Sí
+Physicians,EP-20,,Testing,Think-aloud,Discourse-based methods,,Qualitative analyses,Sí
+Physicians,EP-20,,Testing,Case-based testing,Discourse-based methods,,Qualitative analyses,Sí
+Physicians,EP-20,,Testing,Observation / Shadowing,Discourse-based methods,,Qualitative analyses,Sí
+Physicians,EP-20,,Inquiry,Semi-structured interviews,Discourse-based methods,,Qualitative analyses,Sí
+Physicians,EP-20,,Testing,Think-aloud,Observation and testing,,Qualitative analyses,Sí
+Physicians,EP-20,,Testing,Case-based testing,Observation and testing,,Qualitative analyses,Sí
+Physicians,EP-20,,Testing,Observation / Shadowing,Observation and testing,,Qualitative analyses,Sí
+Physicians,EP-20,,Inquiry,Semi-structured interviews,Observation and testing,,Qualitative analyses,Sí
+Physicians,EP-20,,Testing,Think-aloud,Discourse-based methods,,User-based usability measurement,Sí
+Physicians,EP-20,,Testing,Case-based testing,Discourse-based methods,,User-based usability measurement,Sí
+Physicians,EP-20,,Testing,Observation / Shadowing,Discourse-based methods,,User-based usability measurement,Sí
+Physicians,EP-20,,Inquiry,Semi-structured interviews,Discourse-based methods,,User-based usability measurement,Sí
+Physicians,EP-20,,Testing,Think-aloud,Observation and testing,,User-based usability measurement,Sí
+Physicians,EP-20,,Testing,Case-based testing,Observation and testing,,User-based usability measurement,Sí
+Physicians,EP-20,,Testing,Observation / Shadowing,Observation and testing,,User-based usability measurement,Sí
+Physicians,EP-20,,Inquiry,Semi-structured interviews,Observation and testing,,User-based usability measurement,Sí
+Physicians,EP-22,,Inquiry,Thematic analysis of experiences,Surveys and questionnaires,,Qualitative analyses,Sí
+Physicians,EP-22,,Inquiry,Thematic analysis of experiences,Discourse-based methods,,Qualitative analyses,Sí
+Nurses,EP-23,,Inquiry,Thematic analysis of experiences,Standardized usability,,Qualitative analyses,Sí
+Physicians,EP-23,,Inquiry,Thematic analysis of experiences,Standardized usability,,Qualitative analyses,Sí
+Physicians,EP-24,,Testing,Think-aloud,Discourse-based methods,,Qualitative analyses,Sí
+Physicians,EP-24,,Testing,Formative evaluation,Discourse-based methods,,Qualitative analyses,Sí
+Physicians,EP-24,,Inquiry,Semi-structured interviews,Discourse-based methods,,Qualitative analyses,Sí
+Physicians,EP-24,,Testing,Think-aloud,Discourse-based methods,,Process evaluations,Sí
+Physicians,EP-24,,Testing,Formative evaluation,Discourse-based methods,,Process evaluations,Sí
+Physicians,EP-24,,Inquiry,Semi-structured interviews,Discourse-based methods,,Process evaluations,Sí
+Physicians,EP-24,,Testing,Think-aloud,Discourse-based methods,,User-based usability measurement,Sí
+Physicians,EP-24,,Testing,Formative evaluation,Discourse-based methods,,User-based usability measurement,Sí
+Physicians,EP-24,,Inquiry,Semi-structured interviews,Discourse-based methods,,User-based usability measurement,Sí
+Pharmacists,EP-25,,PENDIENTE,PENDIENTE: EP no aparece en nueva tabla de métodos,Discourse-based methods,,,No
+Physicians,EP-25,,PENDIENTE,PENDIENTE: EP no aparece en nueva tabla de métodos,Discourse-based methods,,,No
+Practice professionals,EP-25,,PENDIENTE,PENDIENTE: EP no aparece en nueva tabla de métodos,Discourse-based methods,,,No
+Nurses,EP-26,,Testing,Case-based testing,Explainability and ML validation,,User-based usability measurement,Sí
+Physicians,EP-26,,Testing,Case-based testing,Explainability and ML validation,,User-based usability measurement,Sí
+Paramedics,EP-26,,Testing,Case-based testing,Explainability and ML validation,,User-based usability measurement,Sí
+Physicians,EP-27,Medical institutes,Testing,Case-based testing,Clinical,,User-based usability measurement,Sí
+Physicians,EP-27,Medical institutes,Testing,Case-based testing,Observation and testing,,User-based usability measurement,Sí
+Practice professionals,EP-27,Medical institutes,Testing,Case-based testing,Clinical,,User-based usability measurement,Sí
+Practice professionals,EP-27,Medical institutes,Testing,Case-based testing,Observation and testing,,User-based usability measurement,Sí
+Physicians,EP-28,,Inspection,Heuristic evaluation,Discourse-based methods,,Expert inspection,Sí
+Physicians,EP-31,Medical centers,Testing,Iterative evaluation,Surveys and questionnaires,,Usability perception questionnaires/interviews,Sí
+Physicians,EP-31,Medical centers,Testing,Formative evaluation,Surveys and questionnaires,,Usability perception questionnaires/interviews,Sí
+Physicians,EP-31,Medical centers,Inquiry,Questionnaires,Surveys and questionnaires,,Usability perception questionnaires/interviews,Sí
+Physicians,EP-31,Medical centers,Inquiry,Paired survey,Surveys and questionnaires,,Usability perception questionnaires/interviews,Sí
+Physicians,EP-31,Medical centers,Testing,Iterative evaluation,Discourse-based methods,,Usability perception questionnaires/interviews,Sí
+Physicians,EP-31,Medical centers,Testing,Formative evaluation,Discourse-based methods,,Usability perception questionnaires/interviews,Sí
+Physicians,EP-31,Medical centers,Inquiry,Questionnaires,Discourse-based methods,,Usability perception questionnaires/interviews,Sí
+Physicians,EP-31,Medical centers,Inquiry,Paired survey,Discourse-based methods,,Usability perception questionnaires/interviews,Sí
+Physicians,EP-31,Medical centers,Testing,Iterative evaluation,Observation and testing,,Usability perception questionnaires/interviews,Sí
+Physicians,EP-31,Medical centers,Testing,Formative evaluation,Observation and testing,,Usability perception questionnaires/interviews,Sí
+Physicians,EP-31,Medical centers,Inquiry,Questionnaires,Observation and testing,,Usability perception questionnaires/interviews,Sí
+Physicians,EP-31,Medical centers,Inquiry,Paired survey,Observation and testing,,Usability perception questionnaires/interviews,Sí
+Physicians,EP-31,Medical centers,Testing,Iterative evaluation,Surveys and questionnaires,,Process evaluations,Sí
+Physicians,EP-31,Medical centers,Testing,Formative evaluation,Surveys and questionnaires,,Process evaluations,Sí
+Physicians,EP-31,Medical centers,Inquiry,Questionnaires,Surveys and questionnaires,,Process evaluations,Sí
+Physicians,EP-31,Medical centers,Inquiry,Paired survey,Surveys and questionnaires,,Process evaluations,Sí
+Physicians,EP-31,Medical centers,Testing,Iterative evaluation,Discourse-based methods,,Process evaluations,Sí
+Physicians,EP-31,Medical centers,Testing,Formative evaluation,Discourse-based methods,,Process evaluations,Sí
+Physicians,EP-31,Medical centers,Inquiry,Questionnaires,Discourse-based methods,,Process evaluations,Sí
+Physicians,EP-31,Medical centers,Inquiry,Paired survey,Discourse-based methods,,Process evaluations,Sí
+Physicians,EP-31,Medical centers,Testing,Iterative evaluation,Observation and testing,,Process evaluations,Sí
+Physicians,EP-31,Medical centers,Testing,Formative evaluation,Observation and testing,,Process evaluations,Sí
+Physicians,EP-31,Medical centers,Inquiry,Questionnaires,Observation and testing,,Process evaluations,Sí
+Physicians,EP-31,Medical centers,Inquiry,Paired survey,Observation and testing,,Process evaluations,Sí
+Nurses,EP-34,,Testing,Case-based testing,Surveys and questionnaires,,Controlled experiments,Sí
+Nurses,EP-34,,Testing,Explanations comparison,Surveys and questionnaires,,Controlled experiments,Sí
+Nurses,EP-34,,Testing,Cross-over/within-subject designs on interaction or explanations,Surveys and questionnaires,,Controlled experiments,Sí
+Nurses,EP-34,,Inquiry,Escalas de satisfacción (Likert),Surveys and questionnaires,,Controlled experiments,Sí
+Nurses,EP-34,,Testing,Case-based testing,Observation and testing,,Controlled experiments,Sí
+Nurses,EP-34,,Testing,Explanations comparison,Observation and testing,,Controlled experiments,Sí
+Nurses,EP-34,,Testing,Cross-over/within-subject designs on interaction or explanations,Observation and testing,,Controlled experiments,Sí
+Nurses,EP-34,,Inquiry,Escalas de satisfacción (Likert),Observation and testing,,Controlled experiments,Sí
+Nurses,EP-34,,Testing,Case-based testing,Surveys and questionnaires,,User-based usability measurement,Sí
+Nurses,EP-34,,Testing,Explanations comparison,Surveys and questionnaires,,User-based usability measurement,Sí
+Nurses,EP-34,,Testing,Cross-over/within-subject designs on interaction or explanations,Surveys and questionnaires,,User-based usability measurement,Sí
+Nurses,EP-34,,Inquiry,Escalas de satisfacción (Likert),Surveys and questionnaires,,User-based usability measurement,Sí
+Nurses,EP-34,,Testing,Case-based testing,Observation and testing,,User-based usability measurement,Sí
+Nurses,EP-34,,Testing,Explanations comparison,Observation and testing,,User-based usability measurement,Sí
+Nurses,EP-34,,Testing,Cross-over/within-subject designs on interaction or explanations,Observation and testing,,User-based usability measurement,Sí
+Nurses,EP-34,,Inquiry,Escalas de satisfacción (Likert),Observation and testing,,User-based usability measurement,Sí
+Nurses,EP-34,,Testing,Case-based testing,Surveys and questionnaires,,Perception of explanations,Sí
+Nurses,EP-34,,Testing,Explanations comparison,Surveys and questionnaires,,Perception of explanations,Sí
+Nurses,EP-34,,Testing,Cross-over/within-subject designs on interaction or explanations,Surveys and questionnaires,,Perception of explanations,Sí
+Nurses,EP-34,,Inquiry,Escalas de satisfacción (Likert),Surveys and questionnaires,,Perception of explanations,Sí
+Nurses,EP-34,,Testing,Case-based testing,Observation and testing,,Perception of explanations,Sí
+Nurses,EP-34,,Testing,Explanations comparison,Observation and testing,,Perception of explanations,Sí
+Nurses,EP-34,,Testing,Cross-over/within-subject designs on interaction or explanations,Observation and testing,,Perception of explanations,Sí
+Nurses,EP-34,,Inquiry,Escalas de satisfacción (Likert),Observation and testing,,Perception of explanations,Sí
+Physicians,EP-34,,Testing,Case-based testing,Surveys and questionnaires,,Controlled experiments,Sí
+Physicians,EP-34,,Testing,Explanations comparison,Surveys and questionnaires,,Controlled experiments,Sí
+Physicians,EP-34,,Testing,Cross-over/within-subject designs on interaction or explanations,Surveys and questionnaires,,Controlled experiments,Sí
+Physicians,EP-34,,Inquiry,Escalas de satisfacción (Likert),Surveys and questionnaires,,Controlled experiments,Sí
+Physicians,EP-34,,Testing,Case-based testing,Observation and testing,,Controlled experiments,Sí
+Physicians,EP-34,,Testing,Explanations comparison,Observation and testing,,Controlled experiments,Sí
+Physicians,EP-34,,Testing,Cross-over/within-subject designs on interaction or explanations,Observation and testing,,Controlled experiments,Sí
+Physicians,EP-34,,Inquiry,Escalas de satisfacción (Likert),Observation and testing,,Controlled experiments,Sí
+Physicians,EP-34,,Testing,Case-based testing,Surveys and questionnaires,,User-based usability measurement,Sí
+Physicians,EP-34,,Testing,Explanations comparison,Surveys and questionnaires,,User-based usability measurement,Sí
+Physicians,EP-34,,Testing,Cross-over/within-subject designs on interaction or explanations,Surveys and questionnaires,,User-based usability measurement,Sí
+Physicians,EP-34,,Inquiry,Escalas de satisfacción (Likert),Surveys and questionnaires,,User-based usability measurement,Sí
+Physicians,EP-34,,Testing,Case-based testing,Observation and testing,,User-based usability measurement,Sí
+Physicians,EP-34,,Testing,Explanations comparison,Observation and testing,,User-based usability measurement,Sí
+Physicians,EP-34,,Testing,Cross-over/within-subject designs on interaction or explanations,Observation and testing,,User-based usability measurement,Sí
+Physicians,EP-34,,Inquiry,Escalas de satisfacción (Likert),Observation and testing,,User-based usability measurement,Sí
+Physicians,EP-34,,Testing,Case-based testing,Surveys and questionnaires,,Perception of explanations,Sí
+Physicians,EP-34,,Testing,Explanations comparison,Surveys and questionnaires,,Perception of explanations,Sí
+Physicians,EP-34,,Testing,Cross-over/within-subject designs on interaction or explanations,Surveys and questionnaires,,Perception of explanations,Sí
+Physicians,EP-34,,Inquiry,Escalas de satisfacción (Likert),Surveys and questionnaires,,Perception of explanations,Sí
+Physicians,EP-34,,Testing,Case-based testing,Observation and testing,,Perception of explanations,Sí
+Physicians,EP-34,,Testing,Explanations comparison,Observation and testing,,Perception of explanations,Sí
+Physicians,EP-34,,Testing,Cross-over/within-subject designs on interaction or explanations,Observation and testing,,Perception of explanations,Sí
+Physicians,EP-34,,Inquiry,Escalas de satisfacción (Likert),Observation and testing,,Perception of explanations,Sí
+Paramedics,EP-34,,Testing,Case-based testing,Surveys and questionnaires,,Controlled experiments,Sí
+Paramedics,EP-34,,Testing,Explanations comparison,Surveys and questionnaires,,Controlled experiments,Sí
+Paramedics,EP-34,,Testing,Cross-over/within-subject designs on interaction or explanations,Surveys and questionnaires,,Controlled experiments,Sí
+Paramedics,EP-34,,Inquiry,Escalas de satisfacción (Likert),Surveys and questionnaires,,Controlled experiments,Sí
+Paramedics,EP-34,,Testing,Case-based testing,Observation and testing,,Controlled experiments,Sí
+Paramedics,EP-34,,Testing,Explanations comparison,Observation and testing,,Controlled experiments,Sí
+Paramedics,EP-34,,Testing,Cross-over/within-subject designs on interaction or explanations,Observation and testing,,Controlled experiments,Sí
+Paramedics,EP-34,,Inquiry,Escalas de satisfacción (Likert),Observation and testing,,Controlled experiments,Sí
+Paramedics,EP-34,,Testing,Case-based testing,Surveys and questionnaires,,User-based usability measurement,Sí
+Paramedics,EP-34,,Testing,Explanations comparison,Surveys and questionnaires,,User-based usability measurement,Sí
+Paramedics,EP-34,,Testing,Cross-over/within-subject designs on interaction or explanations,Surveys and questionnaires,,User-based usability measurement,Sí
+Paramedics,EP-34,,Inquiry,Escalas de satisfacción (Likert),Surveys and questionnaires,,User-based usability measurement,Sí
+Paramedics,EP-34,,Testing,Case-based testing,Observation and testing,,User-based usability measurement,Sí
+Paramedics,EP-34,,Testing,Explanations comparison,Observation and testing,,User-based usability measurement,Sí
+Paramedics,EP-34,,Testing,Cross-over/within-subject designs on interaction or explanations,Observation and testing,,User-based usability measurement,Sí
+Paramedics,EP-34,,Inquiry,Escalas de satisfacción (Likert),Observation and testing,,User-based usability measurement,Sí
+Paramedics,EP-34,,Testing,Case-based testing,Surveys and questionnaires,,Perception of explanations,Sí
+Paramedics,EP-34,,Testing,Explanations comparison,Surveys and questionnaires,,Perception of explanations,Sí
+Paramedics,EP-34,,Testing,Cross-over/within-subject designs on interaction or explanations,Surveys and questionnaires,,Perception of explanations,Sí
+Paramedics,EP-34,,Inquiry,Escalas de satisfacción (Likert),Surveys and questionnaires,,Perception of explanations,Sí
+Paramedics,EP-34,,Testing,Case-based testing,Observation and testing,,Perception of explanations,Sí
+Paramedics,EP-34,,Testing,Explanations comparison,Observation and testing,,Perception of explanations,Sí
+Paramedics,EP-34,,Testing,Cross-over/within-subject designs on interaction or explanations,Observation and testing,,Perception of explanations,Sí
+Paramedics,EP-34,,Inquiry,Escalas de satisfacción (Likert),Observation and testing,,Perception of explanations,Sí
+Physicians,EP-35,,Testing,Case-based testing,Observation and testing,,Controlled experiments,Sí
+Physicians,EP-35,,Testing,Explanations comparison,Observation and testing,,Controlled experiments,Sí
+Physicians,EP-35,,Testing,Cross-over/within-subject designs on interaction or explanations,Observation and testing,,Controlled experiments,Sí
+Physicians,EP-35,,Inquiry,Escalas de satisfacción (Likert),Observation and testing,,Controlled experiments,Sí
+Physicians,EP-35,,Testing,Case-based testing,Observation and testing,,User-based usability measurement,Sí
+Physicians,EP-35,,Testing,Explanations comparison,Observation and testing,,User-based usability measurement,Sí
+Physicians,EP-35,,Testing,Cross-over/within-subject designs on interaction or explanations,Observation and testing,,User-based usability measurement,Sí
+Physicians,EP-35,,Inquiry,Escalas de satisfacción (Likert),Observation and testing,,User-based usability measurement,Sí
+Physicians,EP-35,,Testing,Case-based testing,Observation and testing,,Perception of explanations,Sí
+Physicians,EP-35,,Testing,Explanations comparison,Observation and testing,,Perception of explanations,Sí
+Physicians,EP-35,,Testing,Cross-over/within-subject designs on interaction or explanations,Observation and testing,,Perception of explanations,Sí
+Physicians,EP-35,,Inquiry,Escalas de satisfacción (Likert),Observation and testing,,Perception of explanations,Sí
+Pharmacists,EP-37,Hospitals,Inquiry,Questionnaires,Surveys and questionnaires,,Qualitative analyses,Sí
+Pharmacists,EP-37,Hospitals,Inquiry,Semi-structured interviews,Surveys and questionnaires,,Qualitative analyses,Sí
+Pharmacists,EP-37,Hospitals,Inquiry,Thematic analysis of experiences,Surveys and questionnaires,,Qualitative analyses,Sí
+Pharmacists,EP-37,Hospitals,Inquiry,Questionnaires,Discourse-based methods,,Qualitative analyses,Sí
+Pharmacists,EP-37,Hospitals,Inquiry,Semi-structured interviews,Discourse-based methods,,Qualitative analyses,Sí
+Pharmacists,EP-37,Hospitals,Inquiry,Thematic analysis of experiences,Discourse-based methods,,Qualitative analyses,Sí
+Pharmacists,EP-37,Hospitals,Inquiry,Questionnaires,Surveys and questionnaires,,Usability perception questionnaires/interviews,Sí
+Pharmacists,EP-37,Hospitals,Inquiry,Semi-structured interviews,Surveys and questionnaires,,Usability perception questionnaires/interviews,Sí
+Pharmacists,EP-37,Hospitals,Inquiry,Thematic analysis of experiences,Surveys and questionnaires,,Usability perception questionnaires/interviews,Sí
+Pharmacists,EP-37,Hospitals,Inquiry,Questionnaires,Discourse-based methods,,Usability perception questionnaires/interviews,Sí
+Pharmacists,EP-37,Hospitals,Inquiry,Semi-structured interviews,Discourse-based methods,,Usability perception questionnaires/interviews,Sí
+Pharmacists,EP-37,Hospitals,Inquiry,Thematic analysis of experiences,Discourse-based methods,,Usability perception questionnaires/interviews,Sí
+Physicians,EP-37,Hospitals,Inquiry,Questionnaires,Surveys and questionnaires,,Qualitative analyses,Sí
+Physicians,EP-37,Hospitals,Inquiry,Semi-structured interviews,Surveys and questionnaires,,Qualitative analyses,Sí
+Physicians,EP-37,Hospitals,Inquiry,Thematic analysis of experiences,Surveys and questionnaires,,Qualitative analyses,Sí
+Physicians,EP-37,Hospitals,Inquiry,Questionnaires,Discourse-based methods,,Qualitative analyses,Sí
+Physicians,EP-37,Hospitals,Inquiry,Semi-structured interviews,Discourse-based methods,,Qualitative analyses,Sí
+Physicians,EP-37,Hospitals,Inquiry,Thematic analysis of experiences,Discourse-based methods,,Qualitative analyses,Sí
+Physicians,EP-37,Hospitals,Inquiry,Questionnaires,Surveys and questionnaires,,Usability perception questionnaires/interviews,Sí
+Physicians,EP-37,Hospitals,Inquiry,Semi-structured interviews,Surveys and questionnaires,,Usability perception questionnaires/interviews,Sí
+Physicians,EP-37,Hospitals,Inquiry,Thematic analysis of experiences,Surveys and questionnaires,,Usability perception questionnaires/interviews,Sí
+Physicians,EP-37,Hospitals,Inquiry,Questionnaires,Discourse-based methods,,Usability perception questionnaires/interviews,Sí
+Physicians,EP-37,Hospitals,Inquiry,Semi-structured interviews,Discourse-based methods,,Usability perception questionnaires/interviews,Sí
+Physicians,EP-37,Hospitals,Inquiry,Thematic analysis of experiences,Discourse-based methods,,Usability perception questionnaires/interviews,Sí
+Nurses,EP-38,Laboratories,Testing,Iterative evaluation,Discourse-based methods,"ISO / IEC (usabilidad, calidad, dispositivos médicos) - ISO 9241-11 (definición ISO de usabilidad)",Process evaluations,Sí
+Nurses,EP-38,Laboratories,Testing,Formative evaluation,Discourse-based methods,"ISO / IEC (usabilidad, calidad, dispositivos médicos) - ISO 9241-11 (definición ISO de usabilidad)",Process evaluations,Sí
+Nurses,EP-38,Laboratories,Inspection,Heuristic evaluation,Discourse-based methods,"ISO / IEC (usabilidad, calidad, dispositivos médicos) - ISO 9241-11 (definición ISO de usabilidad)",Process evaluations,Sí
+Nurses,EP-38,Laboratories,Testing,Iterative evaluation,Observation and testing,"ISO / IEC (usabilidad, calidad, dispositivos médicos) - ISO 9241-11 (definición ISO de usabilidad)",Process evaluations,Sí
+Nurses,EP-38,Laboratories,Testing,Formative evaluation,Observation and testing,"ISO / IEC (usabilidad, calidad, dispositivos médicos) - ISO 9241-11 (definición ISO de usabilidad)",Process evaluations,Sí
+Nurses,EP-38,Laboratories,Inspection,Heuristic evaluation,Observation and testing,"ISO / IEC (usabilidad, calidad, dispositivos médicos) - ISO 9241-11 (definición ISO de usabilidad)",Process evaluations,Sí
+Nurses,EP-38,Laboratories,Testing,Iterative evaluation,Standardized usability,"ISO / IEC (usabilidad, calidad, dispositivos médicos) - ISO 9241-11 (definición ISO de usabilidad)",Process evaluations,Sí
+Nurses,EP-38,Laboratories,Testing,Formative evaluation,Standardized usability,"ISO / IEC (usabilidad, calidad, dispositivos médicos) - ISO 9241-11 (definición ISO de usabilidad)",Process evaluations,Sí
+Nurses,EP-38,Laboratories,Inspection,Heuristic evaluation,Standardized usability,"ISO / IEC (usabilidad, calidad, dispositivos médicos) - ISO 9241-11 (definición ISO de usabilidad)",Process evaluations,Sí
+Nurses,EP-38,Laboratories,Testing,Iterative evaluation,Discourse-based methods,"ISO / IEC (usabilidad, calidad, dispositivos médicos) - ISO 9241-11 (definición ISO de usabilidad)",Expert inspection,Sí
+Nurses,EP-38,Laboratories,Testing,Formative evaluation,Discourse-based methods,"ISO / IEC (usabilidad, calidad, dispositivos médicos) - ISO 9241-11 (definición ISO de usabilidad)",Expert inspection,Sí
+Nurses,EP-38,Laboratories,Inspection,Heuristic evaluation,Discourse-based methods,"ISO / IEC (usabilidad, calidad, dispositivos médicos) - ISO 9241-11 (definición ISO de usabilidad)",Expert inspection,Sí
+Nurses,EP-38,Laboratories,Testing,Iterative evaluation,Observation and testing,"ISO / IEC (usabilidad, calidad, dispositivos médicos) - ISO 9241-11 (definición ISO de usabilidad)",Expert inspection,Sí
+Nurses,EP-38,Laboratories,Testing,Formative evaluation,Observation and testing,"ISO / IEC (usabilidad, calidad, dispositivos médicos) - ISO 9241-11 (definición ISO de usabilidad)",Expert inspection,Sí
+Nurses,EP-38,Laboratories,Inspection,Heuristic evaluation,Observation and testing,"ISO / IEC (usabilidad, calidad, dispositivos médicos) - ISO 9241-11 (definición ISO de usabilidad)",Expert inspection,Sí
+Nurses,EP-38,Laboratories,Testing,Iterative evaluation,Standardized usability,"ISO / IEC (usabilidad, calidad, dispositivos médicos) - ISO 9241-11 (definición ISO de usabilidad)",Expert inspection,Sí
+Nurses,EP-38,Laboratories,Testing,Formative evaluation,Standardized usability,"ISO / IEC (usabilidad, calidad, dispositivos médicos) - ISO 9241-11 (definición ISO de usabilidad)",Expert inspection,Sí
+Nurses,EP-38,Laboratories,Inspection,Heuristic evaluation,Standardized usability,"ISO / IEC (usabilidad, calidad, dispositivos médicos) - ISO 9241-11 (definición ISO de usabilidad)",Expert inspection,Sí
+"Usability / HCI experts, among others",EP-38,Laboratories,Testing,Iterative evaluation,Discourse-based methods,"ISO / IEC (usabilidad, calidad, dispositivos médicos) - ISO 9241-11 (definición ISO de usabilidad)",Process evaluations,Sí
+"Usability / HCI experts, among others",EP-38,Laboratories,Testing,Formative evaluation,Discourse-based methods,"ISO / IEC (usabilidad, calidad, dispositivos médicos) - ISO 9241-11 (definición ISO de usabilidad)",Process evaluations,Sí
+"Usability / HCI experts, among others",EP-38,Laboratories,Inspection,Heuristic evaluation,Discourse-based methods,"ISO / IEC (usabilidad, calidad, dispositivos médicos) - ISO 9241-11 (definición ISO de usabilidad)",Process evaluations,Sí
+"Usability / HCI experts, among others",EP-38,Laboratories,Testing,Iterative evaluation,Observation and testing,"ISO / IEC (usabilidad, calidad, dispositivos médicos) - ISO 9241-11 (definición ISO de usabilidad)",Process evaluations,Sí
+"Usability / HCI experts, among others",EP-38,Laboratories,Testing,Formative evaluation,Observation and testing,"ISO / IEC (usabilidad, calidad, dispositivos médicos) - ISO 9241-11 (definición ISO de usabilidad)",Process evaluations,Sí
+"Usability / HCI experts, among others",EP-38,Laboratories,Inspection,Heuristic evaluation,Observation and testing,"ISO / IEC (usabilidad, calidad, dispositivos médicos) - ISO 9241-11 (definición ISO de usabilidad)",Process evaluations,Sí
+"Usability / HCI experts, among others",EP-38,Laboratories,Testing,Iterative evaluation,Standardized usability,"ISO / IEC (usabilidad, calidad, dispositivos médicos) - ISO 9241-11 (definición ISO de usabilidad)",Process evaluations,Sí
+"Usability / HCI experts, among others",EP-38,Laboratories,Testing,Formative evaluation,Standardized usability,"ISO / IEC (usabilidad, calidad, dispositivos médicos) - ISO 9241-11 (definición ISO de usabilidad)",Process evaluations,Sí
+"Usability / HCI experts, among others",EP-38,Laboratories,Inspection,Heuristic evaluation,Standardized usability,"ISO / IEC (usabilidad, calidad, dispositivos médicos) - ISO 9241-11 (definición ISO de usabilidad)",Process evaluations,Sí
+"Usability / HCI experts, among others",EP-38,Laboratories,Testing,Iterative evaluation,Discourse-based methods,"ISO / IEC (usabilidad, calidad, dispositivos médicos) - ISO 9241-11 (definición ISO de usabilidad)",Expert inspection,Sí
+"Usability / HCI experts, among others",EP-38,Laboratories,Testing,Formative evaluation,Discourse-based methods,"ISO / IEC (usabilidad, calidad, dispositivos médicos) - ISO 9241-11 (definición ISO de usabilidad)",Expert inspection,Sí
+"Usability / HCI experts, among others",EP-38,Laboratories,Inspection,Heuristic evaluation,Discourse-based methods,"ISO / IEC (usabilidad, calidad, dispositivos médicos) - ISO 9241-11 (definición ISO de usabilidad)",Expert inspection,Sí
+"Usability / HCI experts, among others",EP-38,Laboratories,Testing,Iterative evaluation,Observation and testing,"ISO / IEC (usabilidad, calidad, dispositivos médicos) - ISO 9241-11 (definición ISO de usabilidad)",Expert inspection,Sí
+"Usability / HCI experts, among others",EP-38,Laboratories,Testing,Formative evaluation,Observation and testing,"ISO / IEC (usabilidad, calidad, dispositivos médicos) - ISO 9241-11 (definición ISO de usabilidad)",Expert inspection,Sí
+"Usability / HCI experts, among others",EP-38,Laboratories,Inspection,Heuristic evaluation,Observation and testing,"ISO / IEC (usabilidad, calidad, dispositivos médicos) - ISO 9241-11 (definición ISO de usabilidad)",Expert inspection,Sí
+"Usability / HCI experts, among others",EP-38,Laboratories,Testing,Iterative evaluation,Standardized usability,"ISO / IEC (usabilidad, calidad, dispositivos médicos) - ISO 9241-11 (definición ISO de usabilidad)",Expert inspection,Sí
+"Usability / HCI experts, among others",EP-38,Laboratories,Testing,Formative evaluation,Standardized usability,"ISO / IEC (usabilidad, calidad, dispositivos médicos) - ISO 9241-11 (definición ISO de usabilidad)",Expert inspection,Sí
+"Usability / HCI experts, among others",EP-38,Laboratories,Inspection,Heuristic evaluation,Standardized usability,"ISO / IEC (usabilidad, calidad, dispositivos médicos) - ISO 9241-11 (definición ISO de usabilidad)",Expert inspection,Sí
+Physicians,EP-41,,Testing,Think-aloud,Surveys and questionnaires,,Qualitative analyses,Sí
+Physicians,EP-41,,Testing,Case-based testing,Surveys and questionnaires,,Qualitative analyses,Sí
+Physicians,EP-41,,Testing,Observation / Shadowing,Surveys and questionnaires,,Qualitative analyses,Sí
+Physicians,EP-41,,Testing,Iterative evaluation,Surveys and questionnaires,,Qualitative analyses,Sí
+Physicians,EP-41,,Inquiry,Questionnaires,Surveys and questionnaires,,Qualitative analyses,Sí
+Physicians,EP-41,,Inquiry,Semi-structured interviews,Surveys and questionnaires,,Qualitative analyses,Sí
+Physicians,EP-41,,Inquiry,Thematic analysis of experiences,Surveys and questionnaires,,Qualitative analyses,Sí
+Physicians,EP-41,,Inquiry,Usability problems interview analysis,Surveys and questionnaires,,Qualitative analyses,Sí
+Physicians,EP-41,,Testing,Think-aloud,Discourse-based methods,,Qualitative analyses,Sí
+Physicians,EP-41,,Testing,Case-based testing,Discourse-based methods,,Qualitative analyses,Sí
+Physicians,EP-41,,Testing,Observation / Shadowing,Discourse-based methods,,Qualitative analyses,Sí
+Physicians,EP-41,,Testing,Iterative evaluation,Discourse-based methods,,Qualitative analyses,Sí
+Physicians,EP-41,,Inquiry,Questionnaires,Discourse-based methods,,Qualitative analyses,Sí
+Physicians,EP-41,,Inquiry,Semi-structured interviews,Discourse-based methods,,Qualitative analyses,Sí
+Physicians,EP-41,,Inquiry,Thematic analysis of experiences,Discourse-based methods,,Qualitative analyses,Sí
+Physicians,EP-41,,Inquiry,Usability problems interview analysis,Discourse-based methods,,Qualitative analyses,Sí
+Physicians,EP-41,,Testing,Think-aloud,Surveys and questionnaires,,Usability perception questionnaires/interviews,Sí
+Physicians,EP-41,,Testing,Case-based testing,Surveys and questionnaires,,Usability perception questionnaires/interviews,Sí
+Physicians,EP-41,,Testing,Observation / Shadowing,Surveys and questionnaires,,Usability perception questionnaires/interviews,Sí
+Physicians,EP-41,,Testing,Iterative evaluation,Surveys and questionnaires,,Usability perception questionnaires/interviews,Sí
+Physicians,EP-41,,Inquiry,Questionnaires,Surveys and questionnaires,,Usability perception questionnaires/interviews,Sí
+Physicians,EP-41,,Inquiry,Semi-structured interviews,Surveys and questionnaires,,Usability perception questionnaires/interviews,Sí
+Physicians,EP-41,,Inquiry,Thematic analysis of experiences,Surveys and questionnaires,,Usability perception questionnaires/interviews,Sí
+Physicians,EP-41,,Inquiry,Usability problems interview analysis,Surveys and questionnaires,,Usability perception questionnaires/interviews,Sí
+Physicians,EP-41,,Testing,Think-aloud,Discourse-based methods,,Usability perception questionnaires/interviews,Sí
+Physicians,EP-41,,Testing,Case-based testing,Discourse-based methods,,Usability perception questionnaires/interviews,Sí
+Physicians,EP-41,,Testing,Observation / Shadowing,Discourse-based methods,,Usability perception questionnaires/interviews,Sí
+Physicians,EP-41,,Testing,Iterative evaluation,Discourse-based methods,,Usability perception questionnaires/interviews,Sí
+Physicians,EP-41,,Inquiry,Questionnaires,Discourse-based methods,,Usability perception questionnaires/interviews,Sí
+Physicians,EP-41,,Inquiry,Semi-structured interviews,Discourse-based methods,,Usability perception questionnaires/interviews,Sí
+Physicians,EP-41,,Inquiry,Thematic analysis of experiences,Discourse-based methods,,Usability perception questionnaires/interviews,Sí
+Physicians,EP-41,,Inquiry,Usability problems interview analysis,Discourse-based methods,,Usability perception questionnaires/interviews,Sí
+Physicians,EP-41,,Testing,Think-aloud,Surveys and questionnaires,,Process evaluations,Sí
+Physicians,EP-41,,Testing,Case-based testing,Surveys and questionnaires,,Process evaluations,Sí
+Physicians,EP-41,,Testing,Observation / Shadowing,Surveys and questionnaires,,Process evaluations,Sí
+Physicians,EP-41,,Testing,Iterative evaluation,Surveys and questionnaires,,Process evaluations,Sí
+Physicians,EP-41,,Inquiry,Questionnaires,Surveys and questionnaires,,Process evaluations,Sí
+Physicians,EP-41,,Inquiry,Semi-structured interviews,Surveys and questionnaires,,Process evaluations,Sí
+Physicians,EP-41,,Inquiry,Thematic analysis of experiences,Surveys and questionnaires,,Process evaluations,Sí
+Physicians,EP-41,,Inquiry,Usability problems interview analysis,Surveys and questionnaires,,Process evaluations,Sí
+Physicians,EP-41,,Testing,Think-aloud,Discourse-based methods,,Process evaluations,Sí
+Physicians,EP-41,,Testing,Case-based testing,Discourse-based methods,,Process evaluations,Sí
+Physicians,EP-41,,Testing,Observation / Shadowing,Discourse-based methods,,Process evaluations,Sí
+Physicians,EP-41,,Testing,Iterative evaluation,Discourse-based methods,,Process evaluations,Sí
+Physicians,EP-41,,Inquiry,Questionnaires,Discourse-based methods,,Process evaluations,Sí
+Physicians,EP-41,,Inquiry,Semi-structured interviews,Discourse-based methods,,Process evaluations,Sí
+Physicians,EP-41,,Inquiry,Thematic analysis of experiences,Discourse-based methods,,Process evaluations,Sí
+Physicians,EP-41,,Inquiry,Usability problems interview analysis,Discourse-based methods,,Process evaluations,Sí
+Physicians,EP-41,,Testing,Think-aloud,Surveys and questionnaires,,User-based usability measurement,Sí
+Physicians,EP-41,,Testing,Case-based testing,Surveys and questionnaires,,User-based usability measurement,Sí
+Physicians,EP-41,,Testing,Observation / Shadowing,Surveys and questionnaires,,User-based usability measurement,Sí
+Physicians,EP-41,,Testing,Iterative evaluation,Surveys and questionnaires,,User-based usability measurement,Sí
+Physicians,EP-41,,Inquiry,Questionnaires,Surveys and questionnaires,,User-based usability measurement,Sí
+Physicians,EP-41,,Inquiry,Semi-structured interviews,Surveys and questionnaires,,User-based usability measurement,Sí
+Physicians,EP-41,,Inquiry,Thematic analysis of experiences,Surveys and questionnaires,,User-based usability measurement,Sí
+Physicians,EP-41,,Inquiry,Usability problems interview analysis,Surveys and questionnaires,,User-based usability measurement,Sí
+Physicians,EP-41,,Testing,Think-aloud,Discourse-based methods,,User-based usability measurement,Sí
+Physicians,EP-41,,Testing,Case-based testing,Discourse-based methods,,User-based usability measurement,Sí
+Physicians,EP-41,,Testing,Observation / Shadowing,Discourse-based methods,,User-based usability measurement,Sí
+Physicians,EP-41,,Testing,Iterative evaluation,Discourse-based methods,,User-based usability measurement,Sí
+Physicians,EP-41,,Inquiry,Questionnaires,Discourse-based methods,,User-based usability measurement,Sí
+Physicians,EP-41,,Inquiry,Semi-structured interviews,Discourse-based methods,,User-based usability measurement,Sí
+Physicians,EP-41,,Inquiry,Thematic analysis of experiences,Discourse-based methods,,User-based usability measurement,Sí
+Physicians,EP-41,,Inquiry,Usability problems interview analysis,Discourse-based methods,,User-based usability measurement,Sí
+Physicians,EP-42,,Testing,Think-aloud,Discourse-based methods,,Qualitative analyses,Sí
+Physicians,EP-42,,Testing,Case-based testing,Discourse-based methods,,Qualitative analyses,Sí
+Physicians,EP-42,,Testing,Iterative evaluation,Discourse-based methods,,Qualitative analyses,Sí
+Physicians,EP-42,,Testing,Formative evaluation,Discourse-based methods,,Qualitative analyses,Sí
+Physicians,EP-42,,Inquiry,Semi-structured interviews,Discourse-based methods,,Qualitative analyses,Sí
+Physicians,EP-42,,Simulation,Simulation-based testing,Discourse-based methods,,Qualitative analyses,Sí
+Physicians,EP-42,,Simulation,Near-live,Discourse-based methods,,Qualitative analyses,Sí
+Physicians,EP-42,,Testing,Think-aloud,Discourse-based methods,,Process evaluations,Sí
+Physicians,EP-42,,Testing,Case-based testing,Discourse-based methods,,Process evaluations,Sí
+Physicians,EP-42,,Testing,Iterative evaluation,Discourse-based methods,,Process evaluations,Sí
+Physicians,EP-42,,Testing,Formative evaluation,Discourse-based methods,,Process evaluations,Sí
+Physicians,EP-42,,Inquiry,Semi-structured interviews,Discourse-based methods,,Process evaluations,Sí
+Physicians,EP-42,,Simulation,Simulation-based testing,Discourse-based methods,,Process evaluations,Sí
+Physicians,EP-42,,Simulation,Near-live,Discourse-based methods,,Process evaluations,Sí
+Physicians,EP-42,,Testing,Think-aloud,Discourse-based methods,,User-based usability measurement,Sí
+Physicians,EP-42,,Testing,Case-based testing,Discourse-based methods,,User-based usability measurement,Sí
+Physicians,EP-42,,Testing,Iterative evaluation,Discourse-based methods,,User-based usability measurement,Sí
+Physicians,EP-42,,Testing,Formative evaluation,Discourse-based methods,,User-based usability measurement,Sí
+Physicians,EP-42,,Inquiry,Semi-structured interviews,Discourse-based methods,,User-based usability measurement,Sí
+Physicians,EP-42,,Simulation,Simulation-based testing,Discourse-based methods,,User-based usability measurement,Sí
+Physicians,EP-42,,Simulation,Near-live,Discourse-based methods,,User-based usability measurement,Sí
+Physicians,EP-44,,Testing,Observer/Reader performance tests,Surveys and questionnaires,,Usability perception questionnaires/interviews,Sí
+Physicians,EP-44,,Inquiry,Questionnaires,Surveys and questionnaires,,Usability perception questionnaires/interviews,Sí
+Physicians,EP-44,,Inquiry,UX scales,Surveys and questionnaires,,Usability perception questionnaires/interviews,Sí
+Physicians,EP-44,,Testing,Observer/Reader performance tests,Surveys and questionnaires,,Standardized usability scales,Sí
+Physicians,EP-44,,Inquiry,Questionnaires,Surveys and questionnaires,,Standardized usability scales,Sí
+Physicians,EP-44,,Inquiry,UX scales,Surveys and questionnaires,,Standardized usability scales,Sí
+Physicians,EP-44,,Testing,Observer/Reader performance tests,Surveys and questionnaires,,Controlled experiments,Sí
+Physicians,EP-44,,Inquiry,Questionnaires,Surveys and questionnaires,,Controlled experiments,Sí
+Physicians,EP-44,,Inquiry,UX scales,Surveys and questionnaires,,Controlled experiments,Sí
+Physicians,EP-46,,Testing,Case-based testing,Surveys and questionnaires,,Qualitative analyses,Sí
+Physicians,EP-46,,Testing,Observation / Shadowing,Surveys and questionnaires,,Qualitative analyses,Sí
+Physicians,EP-46,,Simulation,Simulation-based testing,Surveys and questionnaires,,Qualitative analyses,Sí
+Physicians,EP-46,,Testing,Case-based testing,Discourse-based methods,,Qualitative analyses,Sí
+Physicians,EP-46,,Testing,Observation / Shadowing,Discourse-based methods,,Qualitative analyses,Sí
+Physicians,EP-46,,Simulation,Simulation-based testing,Discourse-based methods,,Qualitative analyses,Sí
+Physicians,EP-46,,Testing,Case-based testing,Observation and testing,,Qualitative analyses,Sí
+Physicians,EP-46,,Testing,Observation / Shadowing,Observation and testing,,Qualitative analyses,Sí
+Physicians,EP-46,,Simulation,Simulation-based testing,Observation and testing,,Qualitative analyses,Sí
+Physicians,EP-46,,Testing,Case-based testing,Records and documents,,Qualitative analyses,Sí
+Physicians,EP-46,,Testing,Observation / Shadowing,Records and documents,,Qualitative analyses,Sí
+Physicians,EP-46,,Simulation,Simulation-based testing,Records and documents,,Qualitative analyses,Sí
+Physicians,EP-46,,Testing,Case-based testing,Surveys and questionnaires,,User-based usability measurement,Sí
+Physicians,EP-46,,Testing,Observation / Shadowing,Surveys and questionnaires,,User-based usability measurement,Sí
+Physicians,EP-46,,Simulation,Simulation-based testing,Surveys and questionnaires,,User-based usability measurement,Sí
+Physicians,EP-46,,Testing,Case-based testing,Discourse-based methods,,User-based usability measurement,Sí
+Physicians,EP-46,,Testing,Observation / Shadowing,Discourse-based methods,,User-based usability measurement,Sí
+Physicians,EP-46,,Simulation,Simulation-based testing,Discourse-based methods,,User-based usability measurement,Sí
+Physicians,EP-46,,Testing,Case-based testing,Observation and testing,,User-based usability measurement,Sí
+Physicians,EP-46,,Testing,Observation / Shadowing,Observation and testing,,User-based usability measurement,Sí
+Physicians,EP-46,,Simulation,Simulation-based testing,Observation and testing,,User-based usability measurement,Sí
+Physicians,EP-46,,Testing,Case-based testing,Records and documents,,User-based usability measurement,Sí
+Physicians,EP-46,,Testing,Observation / Shadowing,Records and documents,,User-based usability measurement,Sí
+Physicians,EP-46,,Simulation,Simulation-based testing,Records and documents,,User-based usability measurement,Sí
+"Usability / HCI experts, among others",EP-48,,Testing,Case-based testing,Standardized usability,Regulaciones legales - EU AI Act (propuesta / mención regulatoria),User-based usability measurement,Sí
+Physicians,EP-49,,Testing,Think-aloud,Surveys and questionnaires,,Qualitative analyses,Sí
+Physicians,EP-49,,Inquiry,SUS system usability scale,Surveys and questionnaires,,Qualitative analyses,Sí
+Physicians,EP-49,,Inquiry,Usability problems interview analysis,Surveys and questionnaires,,Qualitative analyses,Sí
+Physicians,EP-49,,Testing,Think-aloud,Discourse-based methods,,Qualitative analyses,Sí
+Physicians,EP-49,,Inquiry,SUS system usability scale,Discourse-based methods,,Qualitative analyses,Sí
+Physicians,EP-49,,Inquiry,Usability problems interview analysis,Discourse-based methods,,Qualitative analyses,Sí
+Physicians,EP-49,,Testing,Think-aloud,Standardized usability,,Qualitative analyses,Sí
+Physicians,EP-49,,Inquiry,SUS system usability scale,Standardized usability,,Qualitative analyses,Sí
+Physicians,EP-49,,Inquiry,Usability problems interview analysis,Standardized usability,,Qualitative analyses,Sí
+Physicians,EP-49,,Testing,Think-aloud,Surveys and questionnaires,,Standardized usability scales,Sí
+Physicians,EP-49,,Inquiry,SUS system usability scale,Surveys and questionnaires,,Standardized usability scales,Sí
+Physicians,EP-49,,Inquiry,Usability problems interview analysis,Surveys and questionnaires,,Standardized usability scales,Sí
+Physicians,EP-49,,Testing,Think-aloud,Discourse-based methods,,Standardized usability scales,Sí
+Physicians,EP-49,,Inquiry,SUS system usability scale,Discourse-based methods,,Standardized usability scales,Sí
+Physicians,EP-49,,Inquiry,Usability problems interview analysis,Discourse-based methods,,Standardized usability scales,Sí
+Physicians,EP-49,,Testing,Think-aloud,Standardized usability,,Standardized usability scales,Sí
+Physicians,EP-49,,Inquiry,SUS system usability scale,Standardized usability,,Standardized usability scales,Sí
+Physicians,EP-49,,Inquiry,Usability problems interview analysis,Standardized usability,,Standardized usability scales,Sí
+Physicians,EP-49,,Testing,Think-aloud,Surveys and questionnaires,,User-based usability measurement,Sí
+Physicians,EP-49,,Inquiry,SUS system usability scale,Surveys and questionnaires,,User-based usability measurement,Sí
+Physicians,EP-49,,Inquiry,Usability problems interview analysis,Surveys and questionnaires,,User-based usability measurement,Sí
+Physicians,EP-49,,Testing,Think-aloud,Discourse-based methods,,User-based usability measurement,Sí
+Physicians,EP-49,,Inquiry,SUS system usability scale,Discourse-based methods,,User-based usability measurement,Sí
+Physicians,EP-49,,Inquiry,Usability problems interview analysis,Discourse-based methods,,User-based usability measurement,Sí
+Physicians,EP-49,,Testing,Think-aloud,Standardized usability,,User-based usability measurement,Sí
+Physicians,EP-49,,Inquiry,SUS system usability scale,Standardized usability,,User-based usability measurement,Sí
+Physicians,EP-49,,Inquiry,Usability problems interview analysis,Standardized usability,,User-based usability measurement,Sí
+"Usability / HCI experts, among others",EP-50,,Testing,Iterative evaluation,Discourse-based methods,,Process evaluations,Sí
+"Usability / HCI experts, among others",EP-50,,Inspection,Heuristic evaluation,Discourse-based methods,,Process evaluations,Sí
+"Usability / HCI experts, among others",EP-50,,Inspection,Heuristic walkthrough,Discourse-based methods,,Process evaluations,Sí
+"Usability / HCI experts, among others",EP-50,,Inspection,Talk-based walkthrough,Discourse-based methods,,Process evaluations,Sí
+"Usability / HCI experts, among others",EP-50,,Testing,Iterative evaluation,Observation and testing,,Process evaluations,Sí
+"Usability / HCI experts, among others",EP-50,,Inspection,Heuristic evaluation,Observation and testing,,Process evaluations,Sí
+"Usability / HCI experts, among others",EP-50,,Inspection,Heuristic walkthrough,Observation and testing,,Process evaluations,Sí
+"Usability / HCI experts, among others",EP-50,,Inspection,Talk-based walkthrough,Observation and testing,,Process evaluations,Sí
+"Usability / HCI experts, among others",EP-50,,Testing,Iterative evaluation,Standardized usability,,Process evaluations,Sí
+"Usability / HCI experts, among others",EP-50,,Inspection,Heuristic evaluation,Standardized usability,,Process evaluations,Sí
+"Usability / HCI experts, among others",EP-50,,Inspection,Heuristic walkthrough,Standardized usability,,Process evaluations,Sí
+"Usability / HCI experts, among others",EP-50,,Inspection,Talk-based walkthrough,Standardized usability,,Process evaluations,Sí
+"Usability / HCI experts, among others",EP-50,,Testing,Iterative evaluation,Discourse-based methods,,Expert inspection,Sí
+"Usability / HCI experts, among others",EP-50,,Inspection,Heuristic evaluation,Discourse-based methods,,Expert inspection,Sí
+"Usability / HCI experts, among others",EP-50,,Inspection,Heuristic walkthrough,Discourse-based methods,,Expert inspection,Sí
+"Usability / HCI experts, among others",EP-50,,Inspection,Talk-based walkthrough,Discourse-based methods,,Expert inspection,Sí
+"Usability / HCI experts, among others",EP-50,,Testing,Iterative evaluation,Observation and testing,,Expert inspection,Sí
+"Usability / HCI experts, among others",EP-50,,Inspection,Heuristic evaluation,Observation and testing,,Expert inspection,Sí
+"Usability / HCI experts, among others",EP-50,,Inspection,Heuristic walkthrough,Observation and testing,,Expert inspection,Sí
+"Usability / HCI experts, among others",EP-50,,Inspection,Talk-based walkthrough,Observation and testing,,Expert inspection,Sí
+"Usability / HCI experts, among others",EP-50,,Testing,Iterative evaluation,Standardized usability,,Expert inspection,Sí
+"Usability / HCI experts, among others",EP-50,,Inspection,Heuristic evaluation,Standardized usability,,Expert inspection,Sí
+"Usability / HCI experts, among others",EP-50,,Inspection,Heuristic walkthrough,Standardized usability,,Expert inspection,Sí
+"Usability / HCI experts, among others",EP-50,,Inspection,Talk-based walkthrough,Standardized usability,,Expert inspection,Sí
+Physicians,EP-51,,Testing,Case-based testing,Discourse-based methods,"ISO / IEC (usabilidad, calidad, dispositivos médicos) - ISO/IEC 25010 (modelo de calidad de software)",Process evaluations,Sí
+Physicians,EP-51,,Testing,Iterative evaluation,Discourse-based methods,"ISO / IEC (usabilidad, calidad, dispositivos médicos) - ISO/IEC 25010 (modelo de calidad de software)",Process evaluations,Sí
+Physicians,EP-51,,Inspection,Talk-based walkthrough,Discourse-based methods,"ISO / IEC (usabilidad, calidad, dispositivos médicos) - ISO/IEC 25010 (modelo de calidad de software)",Process evaluations,Sí
+Physicians,EP-51,,Testing,Case-based testing,Discourse-based methods,"ISO / IEC (usabilidad, calidad, dispositivos médicos) - ISO/IEC 25010 (modelo de calidad de software)",Expert inspection,Sí
+Physicians,EP-51,,Testing,Iterative evaluation,Discourse-based methods,"ISO / IEC (usabilidad, calidad, dispositivos médicos) - ISO/IEC 25010 (modelo de calidad de software)",Expert inspection,Sí
+Physicians,EP-51,,Inspection,Talk-based walkthrough,Discourse-based methods,"ISO / IEC (usabilidad, calidad, dispositivos médicos) - ISO/IEC 25010 (modelo de calidad de software)",Expert inspection,Sí
+Physicians,EP-51,,Testing,Case-based testing,Discourse-based methods,"ISO / IEC (usabilidad, calidad, dispositivos médicos) - ISO/IEC 25010 (modelo de calidad de software)",User-based usability measurement,Sí
+Physicians,EP-51,,Testing,Iterative evaluation,Discourse-based methods,"ISO / IEC (usabilidad, calidad, dispositivos médicos) - ISO/IEC 25010 (modelo de calidad de software)",User-based usability measurement,Sí
+Physicians,EP-51,,Inspection,Talk-based walkthrough,Discourse-based methods,"ISO / IEC (usabilidad, calidad, dispositivos médicos) - ISO/IEC 25010 (modelo de calidad de software)",User-based usability measurement,Sí
+Dietitians,EP-53,Hospitals,Testing,Post-implementation evaluation,Discourse-based methods,,Qualitative analyses,Sí
+Dietitians,EP-53,Hospitals,Inquiry,Semi-structured interviews,Discourse-based methods,,Qualitative analyses,Sí
+Dietitians,EP-53,Hospitals,Analytical Modeling,Framework-based evaluation,Discourse-based methods,,Qualitative analyses,Sí
+Dietitians,EP-53,Hospitals,Testing,Post-implementation evaluation,Discourse-based methods,,Controlled experiments,Sí
+Dietitians,EP-53,Hospitals,Inquiry,Semi-structured interviews,Discourse-based methods,,Controlled experiments,Sí
+Dietitians,EP-53,Hospitals,Analytical Modeling,Framework-based evaluation,Discourse-based methods,,Controlled experiments,Sí
+Physicians,EP-54,,Testing,Think-aloud,Discourse-based methods,,Qualitative analyses,Sí
+Physicians,EP-54,,Testing,Case-based testing,Discourse-based methods,,Qualitative analyses,Sí
+Physicians,EP-54,,Testing,Post-implementation evaluation,Discourse-based methods,,Qualitative analyses,Sí
+Physicians,EP-54,,Testing,Reader performance test,Discourse-based methods,,Qualitative analyses,Sí
+Physicians,EP-54,,Inquiry,Semi-structured interviews,Discourse-based methods,,Qualitative analyses,Sí
+Physicians,EP-54,,Inquiry,Thematic analysis of experiences,Discourse-based methods,,Qualitative analyses,Sí
+Physicians,EP-54,,Inquiry,Usability problems interview analysis,Discourse-based methods,,Qualitative analyses,Sí
+Physicians,EP-54,,Simulation,Simulation-based testing,Discourse-based methods,,Qualitative analyses,Sí
+Physicians,EP-54,,Simulation,Near-live,Discourse-based methods,,Qualitative analyses,Sí
+Physicians,EP-54,,Testing,Think-aloud,Discourse-based methods,,Controlled experiments,Sí
+Physicians,EP-54,,Testing,Case-based testing,Discourse-based methods,,Controlled experiments,Sí
+Physicians,EP-54,,Testing,Post-implementation evaluation,Discourse-based methods,,Controlled experiments,Sí
+Physicians,EP-54,,Testing,Reader performance test,Discourse-based methods,,Controlled experiments,Sí
+Physicians,EP-54,,Inquiry,Semi-structured interviews,Discourse-based methods,,Controlled experiments,Sí
+Physicians,EP-54,,Inquiry,Thematic analysis of experiences,Discourse-based methods,,Controlled experiments,Sí
+Physicians,EP-54,,Inquiry,Usability problems interview analysis,Discourse-based methods,,Controlled experiments,Sí
+Physicians,EP-54,,Simulation,Simulation-based testing,Discourse-based methods,,Controlled experiments,Sí
+Physicians,EP-54,,Simulation,Near-live,Discourse-based methods,,Controlled experiments,Sí
+Physicians,EP-54,,Testing,Think-aloud,Discourse-based methods,,User-based usability measurement,Sí
+Physicians,EP-54,,Testing,Case-based testing,Discourse-based methods,,User-based usability measurement,Sí
+Physicians,EP-54,,Testing,Post-implementation evaluation,Discourse-based methods,,User-based usability measurement,Sí
+Physicians,EP-54,,Testing,Reader performance test,Discourse-based methods,,User-based usability measurement,Sí
+Physicians,EP-54,,Inquiry,Semi-structured interviews,Discourse-based methods,,User-based usability measurement,Sí
+Physicians,EP-54,,Inquiry,Thematic analysis of experiences,Discourse-based methods,,User-based usability measurement,Sí
+Physicians,EP-54,,Inquiry,Usability problems interview analysis,Discourse-based methods,,User-based usability measurement,Sí
+Physicians,EP-54,,Simulation,Simulation-based testing,Discourse-based methods,,User-based usability measurement,Sí
+Physicians,EP-54,,Simulation,Near-live,Discourse-based methods,,User-based usability measurement,Sí
+Physicians,EP-55,Medical universities,Inquiry,Questionnaires,Discourse-based methods,,Usability perception questionnaires/interviews,Sí
+Physicians,EP-55,Medical universities,Inquiry,Questionnaires,Standardized usability,,Usability perception questionnaires/interviews,Sí
+Physicians,EP-57,,Testing,Post-implementation evaluation,Surveys and questionnaires,,Qualitative analyses,Sí
+Physicians,EP-57,,Inquiry,Questionnaires,Surveys and questionnaires,,Qualitative analyses,Sí
+Physicians,EP-57,,Inquiry,Semi-structured interviews,Surveys and questionnaires,,Qualitative analyses,Sí
+Physicians,EP-57,,Analytical Modeling,Framework-based evaluation,Surveys and questionnaires,,Qualitative analyses,Sí
+Physicians,EP-57,,Testing,Post-implementation evaluation,Discourse-based methods,,Qualitative analyses,Sí
+Physicians,EP-57,,Inquiry,Questionnaires,Discourse-based methods,,Qualitative analyses,Sí
+Physicians,EP-57,,Inquiry,Semi-structured interviews,Discourse-based methods,,Qualitative analyses,Sí
+Physicians,EP-57,,Analytical Modeling,Framework-based evaluation,Discourse-based methods,,Qualitative analyses,Sí
+Physicians,EP-57,,Testing,Post-implementation evaluation,Surveys and questionnaires,,Usability perception questionnaires/interviews,Sí
+Physicians,EP-57,,Inquiry,Questionnaires,Surveys and questionnaires,,Usability perception questionnaires/interviews,Sí
+Physicians,EP-57,,Inquiry,Semi-structured interviews,Surveys and questionnaires,,Usability perception questionnaires/interviews,Sí
+Physicians,EP-57,,Analytical Modeling,Framework-based evaluation,Surveys and questionnaires,,Usability perception questionnaires/interviews,Sí
+Physicians,EP-57,,Testing,Post-implementation evaluation,Discourse-based methods,,Usability perception questionnaires/interviews,Sí
+Physicians,EP-57,,Inquiry,Questionnaires,Discourse-based methods,,Usability perception questionnaires/interviews,Sí
+Physicians,EP-57,,Inquiry,Semi-structured interviews,Discourse-based methods,,Usability perception questionnaires/interviews,Sí
+Physicians,EP-57,,Analytical Modeling,Framework-based evaluation,Discourse-based methods,,Usability perception questionnaires/interviews,Sí
+Physicians,EP-57,,Testing,Post-implementation evaluation,Surveys and questionnaires,,Controlled experiments,Sí
+Physicians,EP-57,,Inquiry,Questionnaires,Surveys and questionnaires,,Controlled experiments,Sí
+Physicians,EP-57,,Inquiry,Semi-structured interviews,Surveys and questionnaires,,Controlled experiments,Sí
+Physicians,EP-57,,Analytical Modeling,Framework-based evaluation,Surveys and questionnaires,,Controlled experiments,Sí
+Physicians,EP-57,,Testing,Post-implementation evaluation,Discourse-based methods,,Controlled experiments,Sí
+Physicians,EP-57,,Inquiry,Questionnaires,Discourse-based methods,,Controlled experiments,Sí
+Physicians,EP-57,,Inquiry,Semi-structured interviews,Discourse-based methods,,Controlled experiments,Sí
+Physicians,EP-57,,Analytical Modeling,Framework-based evaluation,Discourse-based methods,,Controlled experiments,Sí
+Physicians,EP-58,Hospitals,Testing,Case-based testing,Surveys and questionnaires,,Controlled experiments,Sí
+Physicians,EP-58,Hospitals,Testing,Explanations comparison,Surveys and questionnaires,,Controlled experiments,Sí
+Physicians,EP-58,Hospitals,Testing,Observer/Reader performance tests,Surveys and questionnaires,,Controlled experiments,Sí
+Physicians,EP-58,Hospitals,Testing,Cross-over/within-subject designs on interaction or explanations,Surveys and questionnaires,,Controlled experiments,Sí
+Physicians,EP-58,Hospitals,Inquiry,Escalas de satisfacción (Likert),Surveys and questionnaires,,Controlled experiments,Sí
+Physicians,EP-58,Hospitals,Testing,Case-based testing,Surveys and questionnaires,,User-based usability measurement,Sí
+Physicians,EP-58,Hospitals,Testing,Explanations comparison,Surveys and questionnaires,,User-based usability measurement,Sí
+Physicians,EP-58,Hospitals,Testing,Observer/Reader performance tests,Surveys and questionnaires,,User-based usability measurement,Sí
+Physicians,EP-58,Hospitals,Testing,Cross-over/within-subject designs on interaction or explanations,Surveys and questionnaires,,User-based usability measurement,Sí
+Physicians,EP-58,Hospitals,Inquiry,Escalas de satisfacción (Likert),Surveys and questionnaires,,User-based usability measurement,Sí
+Physicians,EP-58,Hospitals,Testing,Case-based testing,Surveys and questionnaires,,Perception of explanations,Sí
+Physicians,EP-58,Hospitals,Testing,Explanations comparison,Surveys and questionnaires,,Perception of explanations,Sí
+Physicians,EP-58,Hospitals,Testing,Observer/Reader performance tests,Surveys and questionnaires,,Perception of explanations,Sí
+Physicians,EP-58,Hospitals,Testing,Cross-over/within-subject designs on interaction or explanations,Surveys and questionnaires,,Perception of explanations,Sí
+Physicians,EP-58,Hospitals,Inquiry,Escalas de satisfacción (Likert),Surveys and questionnaires,,Perception of explanations,Sí
+Students,EP-61,,Inquiry,Questionnaires,Surveys and questionnaires,,Usability perception questionnaires/interviews,Sí
+Students,EP-61,,Analytical Modeling,Framework-based evaluation,Surveys and questionnaires,,Usability perception questionnaires/interviews,Sí
+Students,EP-61,,Inquiry,Questionnaires,Surveys and questionnaires,,Controlled experiments,Sí
+Students,EP-61,,Analytical Modeling,Framework-based evaluation,Surveys and questionnaires,,Controlled experiments,Sí
+Nurses,EP-62,,Testing,Iterative evaluation,Surveys and questionnaires,,Usability perception questionnaires/interviews,Sí
+Nurses,EP-62,,Testing,Formative evaluation,Surveys and questionnaires,,Usability perception questionnaires/interviews,Sí
+Nurses,EP-62,,Inquiry,Questionnaires,Surveys and questionnaires,,Usability perception questionnaires/interviews,Sí
+Nurses,EP-62,,Inquiry,UX scales,Surveys and questionnaires,,Usability perception questionnaires/interviews,Sí
+Nurses,EP-62,,Testing,Iterative evaluation,Discourse-based methods,,Usability perception questionnaires/interviews,Sí
+Nurses,EP-62,,Testing,Formative evaluation,Discourse-based methods,,Usability perception questionnaires/interviews,Sí
+Nurses,EP-62,,Inquiry,Questionnaires,Discourse-based methods,,Usability perception questionnaires/interviews,Sí
+Nurses,EP-62,,Inquiry,UX scales,Discourse-based methods,,Usability perception questionnaires/interviews,Sí
+Nurses,EP-62,,Testing,Iterative evaluation,Observation and testing,,Usability perception questionnaires/interviews,Sí
+Nurses,EP-62,,Testing,Formative evaluation,Observation and testing,,Usability perception questionnaires/interviews,Sí
+Nurses,EP-62,,Inquiry,Questionnaires,Observation and testing,,Usability perception questionnaires/interviews,Sí
+Nurses,EP-62,,Inquiry,UX scales,Observation and testing,,Usability perception questionnaires/interviews,Sí
+Nurses,EP-62,,Testing,Iterative evaluation,Standardized usability,,Usability perception questionnaires/interviews,Sí
+Nurses,EP-62,,Testing,Formative evaluation,Standardized usability,,Usability perception questionnaires/interviews,Sí
+Nurses,EP-62,,Inquiry,Questionnaires,Standardized usability,,Usability perception questionnaires/interviews,Sí
+Nurses,EP-62,,Inquiry,UX scales,Standardized usability,,Usability perception questionnaires/interviews,Sí
+Nurses,EP-62,,Testing,Iterative evaluation,Surveys and questionnaires,,Standardized usability scales,Sí
+Nurses,EP-62,,Testing,Formative evaluation,Surveys and questionnaires,,Standardized usability scales,Sí
+Nurses,EP-62,,Inquiry,Questionnaires,Surveys and questionnaires,,Standardized usability scales,Sí
+Nurses,EP-62,,Inquiry,UX scales,Surveys and questionnaires,,Standardized usability scales,Sí
+Nurses,EP-62,,Testing,Iterative evaluation,Discourse-based methods,,Standardized usability scales,Sí
+Nurses,EP-62,,Testing,Formative evaluation,Discourse-based methods,,Standardized usability scales,Sí
+Nurses,EP-62,,Inquiry,Questionnaires,Discourse-based methods,,Standardized usability scales,Sí
+Nurses,EP-62,,Inquiry,UX scales,Discourse-based methods,,Standardized usability scales,Sí
+Nurses,EP-62,,Testing,Iterative evaluation,Observation and testing,,Standardized usability scales,Sí
+Nurses,EP-62,,Testing,Formative evaluation,Observation and testing,,Standardized usability scales,Sí
+Nurses,EP-62,,Inquiry,Questionnaires,Observation and testing,,Standardized usability scales,Sí
+Nurses,EP-62,,Inquiry,UX scales,Observation and testing,,Standardized usability scales,Sí
+Nurses,EP-62,,Testing,Iterative evaluation,Standardized usability,,Standardized usability scales,Sí
+Nurses,EP-62,,Testing,Formative evaluation,Standardized usability,,Standardized usability scales,Sí
+Nurses,EP-62,,Inquiry,Questionnaires,Standardized usability,,Standardized usability scales,Sí
+Nurses,EP-62,,Inquiry,UX scales,Standardized usability,,Standardized usability scales,Sí
+Nurses,EP-62,,Testing,Iterative evaluation,Surveys and questionnaires,,Process evaluations,Sí
+Nurses,EP-62,,Testing,Formative evaluation,Surveys and questionnaires,,Process evaluations,Sí
+Nurses,EP-62,,Inquiry,Questionnaires,Surveys and questionnaires,,Process evaluations,Sí
+Nurses,EP-62,,Inquiry,UX scales,Surveys and questionnaires,,Process evaluations,Sí
+Nurses,EP-62,,Testing,Iterative evaluation,Discourse-based methods,,Process evaluations,Sí
+Nurses,EP-62,,Testing,Formative evaluation,Discourse-based methods,,Process evaluations,Sí
+Nurses,EP-62,,Inquiry,Questionnaires,Discourse-based methods,,Process evaluations,Sí
+Nurses,EP-62,,Inquiry,UX scales,Discourse-based methods,,Process evaluations,Sí
+Nurses,EP-62,,Testing,Iterative evaluation,Observation and testing,,Process evaluations,Sí
+Nurses,EP-62,,Testing,Formative evaluation,Observation and testing,,Process evaluations,Sí
+Nurses,EP-62,,Inquiry,Questionnaires,Observation and testing,,Process evaluations,Sí
+Nurses,EP-62,,Inquiry,UX scales,Observation and testing,,Process evaluations,Sí
+Nurses,EP-62,,Testing,Iterative evaluation,Standardized usability,,Process evaluations,Sí
+Nurses,EP-62,,Testing,Formative evaluation,Standardized usability,,Process evaluations,Sí
+Nurses,EP-62,,Inquiry,Questionnaires,Standardized usability,,Process evaluations,Sí
+Nurses,EP-62,,Inquiry,UX scales,Standardized usability,,Process evaluations,Sí
+Nurses,EP-63,,Inspection,Heuristic evaluation,Standardized usability,,Expert inspection,Sí
+"Usability / HCI experts, among others",EP-63,,Inspection,Heuristic evaluation,Standardized usability,,Expert inspection,Sí
+Pharmacists,EP-63,,Inspection,Heuristic evaluation,Standardized usability,,Expert inspection,Sí
+Physicians,EP-67,,PENDIENTE,PENDIENTE: EP no aparece en nueva tabla de métodos,Explainability and ML validation,,,No
+Nurses,EP-71,Intensive care unit,Testing,Post-implementation evaluation,Surveys and questionnaires,,Qualitative analyses,Sí
+Nurses,EP-71,Intensive care unit,Testing,Observation / Shadowing,Surveys and questionnaires,,Qualitative analyses,Sí
+Nurses,EP-71,Intensive care unit,Inquiry,Semi-structured interviews,Surveys and questionnaires,,Qualitative analyses,Sí
+Nurses,EP-71,Intensive care unit,Testing,Post-implementation evaluation,Discourse-based methods,,Qualitative analyses,Sí
+Nurses,EP-71,Intensive care unit,Testing,Observation / Shadowing,Discourse-based methods,,Qualitative analyses,Sí
+Nurses,EP-71,Intensive care unit,Inquiry,Semi-structured interviews,Discourse-based methods,,Qualitative analyses,Sí
+Nurses,EP-71,Intensive care unit,Testing,Post-implementation evaluation,Records and documents,,Qualitative analyses,Sí
+Nurses,EP-71,Intensive care unit,Testing,Observation / Shadowing,Records and documents,,Qualitative analyses,Sí
+Nurses,EP-71,Intensive care unit,Inquiry,Semi-structured interviews,Records and documents,,Qualitative analyses,Sí
+Physicians,EP-71,Intensive care unit,Testing,Post-implementation evaluation,Surveys and questionnaires,,Qualitative analyses,Sí
+Physicians,EP-71,Intensive care unit,Testing,Observation / Shadowing,Surveys and questionnaires,,Qualitative analyses,Sí
+Physicians,EP-71,Intensive care unit,Inquiry,Semi-structured interviews,Surveys and questionnaires,,Qualitative analyses,Sí
+Physicians,EP-71,Intensive care unit,Testing,Post-implementation evaluation,Discourse-based methods,,Qualitative analyses,Sí
+Physicians,EP-71,Intensive care unit,Testing,Observation / Shadowing,Discourse-based methods,,Qualitative analyses,Sí
+Physicians,EP-71,Intensive care unit,Inquiry,Semi-structured interviews,Discourse-based methods,,Qualitative analyses,Sí
+Physicians,EP-71,Intensive care unit,Testing,Post-implementation evaluation,Records and documents,,Qualitative analyses,Sí
+Physicians,EP-71,Intensive care unit,Testing,Observation / Shadowing,Records and documents,,Qualitative analyses,Sí
+Physicians,EP-71,Intensive care unit,Inquiry,Semi-structured interviews,Records and documents,,Qualitative analyses,Sí
+Physicians,EP-72,,Testing,Randomized Controlled Trial,Clinical,Guías y estándares de reporte (EQUATOR Network) - CARE (Case Report Guidelines),Controlled experiments,Sí
+Physicians,EP-72,,Testing,Randomized Controlled Trial,Clinical,Guías y estándares de reporte (EQUATOR Network) - DECIDE-AI,Controlled experiments,Sí
+Physicians,EP-73,,Testing,Randomized Controlled Trial,Clinical,Guías y estándares de reporte (EQUATOR Network) - CARE (Case Report Guidelines),Controlled experiments,Sí
+Physicians,EP-73,,Testing,Randomized Controlled Trial,Clinical,Guías y estándares de reporte (EQUATOR Network) - CONSORT-AI,Controlled experiments,Sí
+Physicians,EP-73,,Testing,Randomized Controlled Trial,Clinical,Guías y estándares de reporte (EQUATOR Network) - DECIDE-AI,Controlled experiments,Sí
+Physicians,EP-73,,Testing,Randomized Controlled Trial,Clinical,Guías y estándares de reporte (EQUATOR Network) - SPIRIT-AI,Controlled experiments,Sí
+Physicians,EP-78,,Testing,Randomized Controlled Trial,Surveys and questionnaires,,Controlled experiments,Sí
+Physicians,EP-78,,Testing,Explanations comparison,Surveys and questionnaires,,Controlled experiments,Sí
+Practice professionals,EP-78,,Testing,Randomized Controlled Trial,Surveys and questionnaires,,Controlled experiments,Sí
+Practice professionals,EP-78,,Testing,Explanations comparison,Surveys and questionnaires,,Controlled experiments,Sí
+Physicians,EP-79,,PENDIENTE,PENDIENTE: EP no aparece en nueva tabla de métodos,Observation and testing,,Controlled experiments,No
+Physicians,EP-79,,PENDIENTE,PENDIENTE: EP no aparece en nueva tabla de métodos,Observation and testing,,User-based usability measurement,No
+Nurses,EP-82,,PENDIENTE,PENDIENTE: EP no aparece en nueva tabla de métodos,Standardized usability,,Standardized usability scales,No
+"Usability / HCI experts, among others",EP-82,,PENDIENTE,PENDIENTE: EP no aparece en nueva tabla de métodos,Standardized usability,,Standardized usability scales,No
+Physicians,EP-83,,PENDIENTE,PENDIENTE: EP no aparece en nueva tabla de métodos,Observation and testing,,Usability perception questionnaires/interviews,No
+Physicians,EP-83,,PENDIENTE,PENDIENTE: EP no aparece en nueva tabla de métodos,Observation and testing,,Perception of explanations,No
