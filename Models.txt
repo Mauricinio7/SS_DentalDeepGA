@@ -1,0 +1,5 @@
+Model 720_Epoch_150_cpu_portable Have 6 class and its the original model.
+
+Model Model_Exec_711_Epoch_150_cpu_portable_full have 7 class and its the original model.
+
+The other models are justo tests, 
