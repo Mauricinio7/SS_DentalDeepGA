@@ -72,17 +72,17 @@ The experiments showed that adding clinical data improved the model performance 
 
 ### Hold-out Test Results
 
-| Model | Accuracy | Macro F1 | Weighted F1 |
-|---|---:|---:|---:|
-| Image-only model | 0.4182 | 0.3676 | 0.3832 |
-| Image + clinical data model | 0.61 | 0.57 | 0.60 |
+| Model                       | Accuracy | Macro F1 | Weighted F1 |
+| --------------------------- | -------: | -------: | ----------: |
+| Image-only model            |   0.4182 |   0.3676 |      0.3832 |
+| Image + clinical data model |     0.61 |     0.57 |        0.60 |
 
 ### Cross-Validation Results
 
-| Model | Mean Accuracy | Mean Macro F1 | Mean Weighted F1 |
-|---|---:|---:|---:|
-| Image-only model | 0.470809 | 0.450213 | 0.470296 |
-| Image + clinical data model | 0.603279 | 0.511258 | 0.583274 |
+| Model                       | Mean Accuracy | Mean Macro F1 | Mean Weighted F1 |
+| --------------------------- | ------------: | ------------: | ---------------: |
+| Image-only model            |      0.470809 |      0.450213 |         0.470296 |
+| Image + clinical data model |      0.603279 |      0.511258 |         0.583274 |
 
 The multimodal model achieved a stronger and more stable performance across folds. The results suggest that clinical variables provide useful diagnostic information that helps the model generalize better than the image-only baseline.
 
@@ -100,11 +100,11 @@ An additional experiment evaluated different combinations of clinical variables.
 
 The best reported combination reached approximately:
 
-| Rank | Clinical Feature Combination | Mean Accuracy | Mean Macro F1 | Mean Weighted F1 |
-|---:|---|---:|---:|---:|
-| 1 | Dx Periapical + Sensibilidad + Percusión + Movilidad + Palpación | 0.623944 | 0.536735 | 0.603202 |
-| 2 | Dx Periapical + Sensibilidad + Palpación | 0.624061 | 0.524586 | 0.601280 |
-| 3 | Dx Periapical + Sensibilidad + Percusión + Movilidad | 0.601721 | 0.521468 | 0.584571 |
+| Rank | Clinical Feature Combination                                     | Mean Accuracy | Mean Macro F1 | Mean Weighted F1 |
+| ---: | ---------------------------------------------------------------- | ------------: | ------------: | ---------------: |
+|    1 | Dx Periapical + Sensibilidad + Percusión + Movilidad + Palpación |      0.623944 |      0.536735 |         0.603202 |
+|    2 | Dx Periapical + Sensibilidad + Palpación                         |      0.624061 |      0.524586 |         0.601280 |
+|    3 | Dx Periapical + Sensibilidad + Percusión + Movilidad             |      0.601721 |      0.521468 |         0.584571 |
 
 These results suggest that not all clinical variables contribute equally, and that a smaller but well-selected group of variables can provide a better balance between accuracy and generalization.
 
@@ -114,11 +114,11 @@ These results suggest that not all clinical variables contribute equally, and th
 
 Different stages of the project were executed on different hardware setups:
 
-| Task | Hardware |
-|---|---|
-| DeepGA architecture generation | NVIDIA RTX A1000, Intel Xeon ES 2603, 128 GB RAM |
-| Final model training and testing | NVIDIA RTX 4060 Ti, AMD Ryzen 3600X, 32 GB RAM |
-| Development and simple tests | MacBook Pro M3 Pro, 18 GB RAM |
+| Task                             | Hardware                                         |
+| -------------------------------- | ------------------------------------------------ |
+| DeepGA architecture generation   | NVIDIA RTX A1000, Intel Xeon ES 2603, 128 GB RAM |
+| Final model training and testing | NVIDIA RTX 4060 Ti, AMD Ryzen 3600X, 32 GB RAM   |
+| Development and simple tests     | MacBook Pro M3 Pro, 18 GB RAM                    |
 
 ---
 
@@ -126,29 +126,26 @@ Different stages of the project were executed on different hardware setups:
 
 Below is a description of the main files shown in the repository.
 
-| File | Description |
-|---|---|
-| `.gitignore` | Defines files and folders that Git should ignore, such as temporary files, generated artifacts, local environments, checkpoints, and other non-source files. |
-| `AddVec.ipynb` | Notebook used to experiment with adding or preparing clinical vectors for model input. It is likely related to the construction or testing of the structured clinical feature vector. |
-| `DeepGA.zip` | Compressed DeepGA-related package or archive. It likely contains the original DeepGA implementation, generated architecture files, or supporting resources used to create the CNN architecture. |
-| `DeepGAModel_Main.ipynb` | Notebook focused on the original DeepGA-generated model pipeline. It likely contains the initial architecture loading, construction, or training workflow for the image-only DeepGA model. |
-| `Dental_TrainI.csv` | Clinical or training metadata file used to map dental images with patient-level diagnostic variables. This file is part of the structured data used to build the clinical vector. |
-| `DentalDeepGA_Main_FineT_6Class-Cross.ipynb` | Cross-validation notebook for a 6-class model using a fine-tuning or transfer-learning setup. It is useful for comparison with the final no-weight approach. |
+| File                                                      | Description                                                                                                                                                                                                                                                       |
+| --------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| `.gitignore`                                              | Defines files and folders that Git should ignore, such as temporary files, generated artifacts, local environments, checkpoints, and other non-source files.                                                                                                      |
+| `AddVec.ipynb`                                            | Notebook used to experiment with adding or preparing clinical vectors for model input. It is likely related to the construction or testing of the structured clinical feature vector.                                                                             |
+| `DeepGA.zip`                                              | Compressed DeepGA-related package or archive. It likely contains the original DeepGA implementation, generated architecture files, or supporting resources used to create the CNN architecture.                                                                   |
+| `DeepGAModel_Main.ipynb`                                  | Notebook focused on the original DeepGA-generated model pipeline. It likely contains the initial architecture loading, construction, or training workflow for the image-only DeepGA model.                                                                        |
+| `Dental_TrainI.csv`                                       | Clinical or training metadata file used to map dental images with patient-level diagnostic variables. This file is part of the structured data used to build the clinical vector.                                                                                 |
+| `DentalDeepGA_Main_FineT_6Class-Cross.ipynb`              | Cross-validation notebook for a 6-class model using a fine-tuning and transfer-learning setup. It is useful for comparison with the final no-weight approach.                                                                                                     |
 | `DentalDeepGA_Main_FineT_TArch6ClassCross-NoWeight.ipynb` | **Main and most important notebook.** Contains the final 6-class multimodal training pipeline using the DeepGA-generated architecture without reusing its trained weights. This notebook is used to obtain the final model and evaluate it with cross-validation. |
-| `DentalDeepGA_Main_Transfer_6Class.ipynb` | Notebook for 6-class transfer-learning experiments. It likely tests whether using a transferred DeepGA CNN improves the multimodal classifier. |
-| `DentalDeepGA_Main_Transfer.ipynb` | Earlier transfer-learning notebook for the dental DeepGA model. It appears to be a previous version before the final 6-class setup. |
-| `DentalDeepGA_Main.ipynb` | Main earlier notebook for the dental DeepGA workflow. It likely contains the first complete version of the image-based or multimodal pipeline before later refinements. |
-| `DentalDeepGA_Tests.ipynb` | Notebook used for testing, debugging, and validating model behavior, loaders, predictions, or evaluation utilities. |
-| `DentalDeepGACompareTest6Class copy.ipynb` | Copy of the 6-class comparison notebook. It likely compares predictions or metrics between the image-only model and the image + clinical data model. |
-| `DentalDeepGACompareTest6Class.ipynb` | Main comparison notebook for the 6-class experiments. It compares the baseline image-only model against the multimodal model using test predictions, metrics, and confusion matrices. |
-| `DentalDeepGAFull_Main6Class.ipynb` | Notebook for a full 6-class model variant. It may contain a complete training or evaluation workflow before the final architecture/no-weight version was selected. |
-| `IIIAUV_EndoUC.ipynb` | Notebook related to the broader dental/endodontic dataset or project context. It may include exploratory work, dataset preparation, or early experiments. |
-| `LoadModelTest.ipynb` | Notebook used to load saved/exported models and verify that they can run inference correctly after training or export. |
-| `Models.txt` | Text file used to document model names, exported model paths, architecture notes, or experiment references. |
-| `predicciones_dataset_por_carpetas.csv` | CSV file containing predictions generated over a dataset organized by folders. Useful for checking predicted labels against folder-based ground truth. |
-| `predicciones_nuevo_dataset.csv` | CSV file containing predictions for a newer or external dataset. Useful for additional testing outside the original training split. |
-| `relaciones_profesionales_metodos_actualizados.csv` | CSV file containing updated mappings between professional clinical criteria, methods, or diagnostic relationships. It may support the interpretation or construction of clinical variables. |
-| `WordToASCII.py` | Utility script for converting words or labels to ASCII representations. It may have been used for encoding experiments, debugging, or auxiliary preprocessing. |
+| `DentalDeepGA_Main_Transfer_6Class.ipynb`                 | Notebook for 6-class transfer-learning experiments. It likely tests whether using a transferred DeepGA CNN improves the multimodal classifier.                                                                                                                    |
+| `DentalDeepGA_Main_Transfer.ipynb`                        | Earlier transfer-learning notebook for the dental DeepGA model. It is a previous version before the final 6-class setup, it contains 7 classes.                                                                                                                   |
+| `DentalDeepGA_Main.ipynb`                                 | Main earlier notebook for the dental DeepGA workflow. It likely contains the first complete version of the multimodal pipeline before later refinements.                                                                                                          |
+| `DentalDeepGA_Tests.ipynb`                                | Notebook used for testing, debugging, and validating model behavior, loaders, predictions, or evaluation utilities.                                                                                                                                               |
+| `DentalDeepGACompareTest6Class copy.ipynb`                | Copy of the 6-class comparison notebook for experiments. It likely compares predictions or metrics between the image-only model and the image + clinical data model.                                                                                              |
+| `DentalDeepGACompareTest6Class.ipynb`                     | Main comparison notebook for the 6-class experiments. It compares the baseline image-only model against the multimodal model using test predictions, metrics, and confusion matrices.                                                                             |
+| `DentalDeepGAFull_Main6Class.ipynb`                       | Notebook for a full 6-class model variant. It may contain a complete training or evaluation workflow before the final architecture/no-weight version was selected.                                                                                                |
+| `IIIAUV_EndoUC.ipynb`                                     | Notebook related to the broader dental/endodontic dataset or project context. It may include exploratory work, dataset preparation, or early experiments.                                                                                                         |
+| `LoadModelTest.ipynb`                                     | Notebook used to load saved/exported models and verify that they can run inference correctly after training or export.                                                                                                                                            |
+| `Models.txt`                                              | Text file used to document model names, exported model paths, architecture notes, or experiment references.                                                                                                                                                       |
+| `WordToASCII.py`                                          | Utility script for converting words or labels to ASCII representations. It may have been used for encoding experiments, debugging, or auxiliary preprocessing.                                                                                                    |
 
 ---
 
